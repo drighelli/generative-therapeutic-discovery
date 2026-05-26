@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Dario Righelli placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101828"/>
+      <stop offset="55%" stop-color="#253858"/>
+      <stop offset="100%" stop-color="#5b4b8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="300" fill="url(#g)"/>
+  <circle cx="300" cy="300" r="285" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="18"/>
+  <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700">DR</text>
+  <text x="50%" y="65%" text-anchor="middle" dominant-baseline="middle" fill="rgba(255,255,255,0.78)" font-family="Arial, Helvetica, sans-serif" font-size="34">Photo coming soon</text>
+</svg>

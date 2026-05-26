@@ -86,3 +86,36 @@ table {
 footer.footer {
     margin-top: 4rem;
 }
+
+/* Organisers */
+.organiser-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.25rem;
+    align-items: stretch;
+    margin-top: 1.5rem;
+}
+
+.organiser-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    margin-bottom: 0;
+}
+
+.organiser-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 999px;
+    border: 3px solid rgba(255, 255, 255, 0.18);
+    margin-bottom: 1rem;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.organiser-card h3 {
+    margin-top: 0.4rem;
+    margin-bottom: 0.35rem;
+}
