@@ -2,12 +2,30 @@
 title: "Venue"
 ---
 
-::: {.container-narrow}
+## Venue
 
-## University of Cambridge · Computer Laboratory
+The workshop will take place at the **University of Cambridge Computer Laboratory**, located in the **William Gates Building** on the West Cambridge site.
 
-The workshop will take place at the **University of Cambridge Computer Laboratory**.
+**Address**  
+Department of Computer Science and Technology  
+University of Cambridge  
+William Gates Building  
+15 JJ Thomson Avenue  
+Cambridge CB3 0FD  
+United Kingdom
 
-Full venue details, room information and travel guidance will be added soon.
-
+::: {.map-container}
+<iframe
+    width="100%"
+    height="420"
+    frameborder="0"
+    scrolling="no"
+    marginheight="0"
+    marginwidth="0"
+    src="https://www.openstreetmap.org/export/embed.html?bbox=0.0875%2C52.2070%2C0.0965%2C52.2125&amp;layer=mapnik&amp;marker=52.2098%2C0.0920">
+</iframe>
 :::
+
+[Open larger map](https://www.openstreetmap.org/?mlat=52.2098&mlon=0.0920#map=16/52.2098/0.0920){target="_blank"}
+
+[Open the venue on the University of Cambridge map](https://map.cam.ac.uk/Computer+Laboratory){target="_blank"}
