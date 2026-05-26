@@ -1,0 +1,13 @@
+---
+title: "Venue"
+---
+
+::: {.container-narrow}
+
+## University of Cambridge · Computer Laboratory
+
+The workshop will take place at the **University of Cambridge Computer Laboratory**.
+
+Full venue details, room information and travel guidance will be added soon.
+
+:::

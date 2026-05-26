@@ -1,0 +1,11 @@
+---
+title: "Speakers"
+---
+
+::: {.container-narrow}
+
+## Invited speakers
+
+Speakers will be announced soon.
+
+:::

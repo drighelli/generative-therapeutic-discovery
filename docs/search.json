@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "call.html",
+    "href": "call.html",
+    "title": "Call",
+    "section": "",
+    "text": "The call for contributed talks and posters will be announced soon.\nWe expect contributions related to:\n\nGenerative models for molecular design\nTarget identification and mechanism discovery\nPerturbation-response modelling\nCell-state prediction\nMultimodal and single-cell data integration\nFoundation models for biology\nEvaluation of biomedical generative systems\nInterpretability and biological grounding"
+  },
+  {
+    "objectID": "call.html#call-for-contributions",
+    "href": "call.html#call-for-contributions",
+    "title": "Call",
+    "section": "",
+    "text": "The call for contributed talks and posters will be announced soon.\nWe expect contributions related to:\n\nGenerative models for molecular design\nTarget identification and mechanism discovery\nPerturbation-response modelling\nCell-state prediction\nMultimodal and single-cell data integration\nFoundation models for biology\nEvaluation of biomedical generative systems\nInterpretability and biological grounding"
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration will open soon.\nThe workshop will take place on 29–30 September 2026 at the University of Cambridge Computer Laboratory.\nA registration link will be added here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Generative Models for Therapeutic Discovery",
+    "section": "",
+    "text": "University of Cambridge · Computer Laboratory\n29–30 September 2026 · Cambridge, United Kingdom\nRegister interest View programme"
+  },
+  {
+    "objectID": "index.html#learning-molecules-targets-and-cell-state-responses",
+    "href": "index.html#learning-molecules-targets-and-cell-state-responses",
+    "title": "Generative Models for Therapeutic Discovery",
+    "section": "",
+    "text": "University of Cambridge · Computer Laboratory\n29–30 September 2026 · Cambridge, United Kingdom\nRegister interest View programme"
+  },
+  {
+    "objectID": "index.html#about-the-workshop",
+    "href": "index.html#about-the-workshop",
+    "title": "Generative Models for Therapeutic Discovery",
+    "section": "About the workshop",
+    "text": "About the workshop\nRecent advances in generative artificial intelligence are reshaping therapeutic discovery, moving beyond the design of individual molecules toward models that can connect chemical structure, biological targets, disease mechanisms and cellular responses. At the same time, the rapid growth of high-dimensional biomedical data — including multi-omics, perturbation screens, single-cell profiling, imaging and clinical datasets — creates new opportunities to learn representations of biological systems that are both predictive and mechanistically informative.\nThis workshop will bring together researchers working at the interface of machine learning, computational biology and drug discovery to discuss how generative and relational models can support the discovery of new therapeutic hypotheses. Topics will include molecular generation, target identification, perturbation-response modelling, cell-state prediction, multimodal data integration, foundation models for biology, and evaluation strategies for biomedical generative systems.\nA central theme of the workshop is the shift from generating candidate molecules in isolation to learning structured relationships between molecules, targets, pathways, cell states and disease contexts. By connecting these levels, generative models may help prioritize interventions, predict therapeutic effects, and reveal mechanisms underlying treatment response. The workshop aims to foster discussion on methodological advances, practical applications and open challenges in building reliable, interpretable and biologically grounded models for therapeutic discovery."
+  },
+  {
+    "objectID": "index.html#topics",
+    "href": "index.html#topics",
+    "title": "Generative Models for Therapeutic Discovery",
+    "section": "Topics",
+    "text": "Topics\n\n\nMolecular generation\nGenerative models for molecular design, optimization and prioritization.\n\n\nTargets and mechanisms\nLearning relationships between targets, pathways, disease states and therapeutic hypotheses.\n\n\nCell-state responses\nPerturbation-response modelling, single-cell profiles and cellular state prediction.\n\n\nMultimodal biomedical data\nMulti-omics, imaging, clinical data and foundation models for biology.\n\n\nEvaluation and validation\nBenchmarking, interpretability, biological grounding and reproducibility.\n\n\nRelational modelling\nStructured models connecting molecules, targets, cells, pathways and patients."
+  },
+  {
+    "objectID": "index.html#key-information",
+    "href": "index.html#key-information",
+    "title": "Generative Models for Therapeutic Discovery",
+    "section": "Key information",
+    "text": "Key information\n\n\n\nItem\nDetails\n\n\n\n\nDates\n29–30 September 2026\n\n\nLocation\nUniversity of Cambridge, Computer Laboratory\n\n\nFormat\nTwo-day in-person workshop\n\n\nRegistration\nOpening soon\n\n\nSpeakers\nTo be announced"
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Speakers will be announced soon."
+  },
+  {
+    "objectID": "speakers.html#invited-speakers",
+    "href": "speakers.html#invited-speakers",
+    "title": "Speakers",
+    "section": "",
+    "text": "Speakers will be announced soon."
+  },
+  {
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venue",
+    "section": "",
+    "text": "The workshop will take place at the University of Cambridge Computer Laboratory.\nFull venue details, room information and travel guidance will be added soon."
+  },
+  {
+    "objectID": "venue.html#university-of-cambridge-computer-laboratory",
+    "href": "venue.html#university-of-cambridge-computer-laboratory",
+    "title": "Venue",
+    "section": "",
+    "text": "The workshop will take place at the University of Cambridge Computer Laboratory.\nFull venue details, room information and travel guidance will be added soon."
+  },
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Programme",
+    "section": "",
+    "text": "The detailed programme will be announced closer to the workshop.\n\n\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30–10:00\nRegistration and coffee\n\n\n10:00–10:15\nWelcome and opening remarks\n\n\n10:15–11:00\nKeynote lecture\n\n\n11:00–11:30\nCoffee break\n\n\n11:30–13:00\nSession 1 — Molecular generation and therapeutic design\n\n\n13:00–14:00\nLunch\n\n\n14:00–15:30\nSession 2 — Targets, mechanisms and disease models\n\n\n15:30–16:00\nCoffee break\n\n\n16:00–17:30\nContributed talks / posters\n\n\n17:30–18:00\nDiscussion\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30–10:00\nCoffee\n\n\n10:00–10:45\nKeynote lecture\n\n\n10:45–11:15\nCoffee break\n\n\n11:15–12:45\nSession 3 — Cell-state responses and perturbation models\n\n\n12:45–14:00\nLunch\n\n\n14:00–15:30\nSession 4 — Multimodal and foundation models for biology\n\n\n15:30–16:00\nCoffee break\n\n\n16:00–17:00\nPanel discussion\n\n\n17:00–17:15\nClosing remarks"
+  },
+  {
+    "objectID": "programme.html#day-1-tuesday-29-september-2026",
+    "href": "programme.html#day-1-tuesday-29-september-2026",
+    "title": "Programme",
+    "section": "",
+    "text": "Time\nSession\n\n\n\n\n09:30–10:00\nRegistration and coffee\n\n\n10:00–10:15\nWelcome and opening remarks\n\n\n10:15–11:00\nKeynote lecture\n\n\n11:00–11:30\nCoffee break\n\n\n11:30–13:00\nSession 1 — Molecular generation and therapeutic design\n\n\n13:00–14:00\nLunch\n\n\n14:00–15:30\nSession 2 — Targets, mechanisms and disease models\n\n\n15:30–16:00\nCoffee break\n\n\n16:00–17:30\nContributed talks / posters\n\n\n17:30–18:00\nDiscussion"
+  },
+  {
+    "objectID": "programme.html#day-2-wednesday-30-september-2026",
+    "href": "programme.html#day-2-wednesday-30-september-2026",
+    "title": "Programme",
+    "section": "",
+    "text": "Time\nSession\n\n\n\n\n09:30–10:00\nCoffee\n\n\n10:00–10:45\nKeynote lecture\n\n\n10:45–11:15\nCoffee break\n\n\n11:15–12:45\nSession 3 — Cell-state responses and perturbation models\n\n\n12:45–14:00\nLunch\n\n\n14:00–15:30\nSession 4 — Multimodal and foundation models for biology\n\n\n15:30–16:00\nCoffee break\n\n\n16:00–17:00\nPanel discussion\n\n\n17:00–17:15\nClosing remarks"
+  },
+  {
+    "objectID": "organisers.html",
+    "href": "organisers.html",
+    "title": "Organisers",
+    "section": "",
+    "text": "University of Cambridge / University of Padova\n\n\n\nUniversity of Cambridge / University of Padova\n\n\n\nUniversity of Cambridge"
+  },
+  {
+    "objectID": "organisers.html#organising-committee",
+    "href": "organisers.html#organising-committee",
+    "title": "Organisers",
+    "section": "",
+    "text": "University of Cambridge / University of Padova\n\n\n\nUniversity of Cambridge / University of Padova\n\n\n\nUniversity of Cambridge"
+  }
+]

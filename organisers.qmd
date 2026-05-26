@@ -1,0 +1,24 @@
+---
+title: "Organisers"
+---
+
+::: {.container-narrow}
+
+## Organising committee
+
+::: {.organiser-card}
+### Dario Righelli  
+**University of Cambridge / University of Padova**
+:::
+
+::: {.organiser-card}
+### Cristian Taccioli  
+**University of Cambridge / University of Padova**
+:::
+
+::: {.organiser-card}
+### Pietro Liò  
+**University of Cambridge**
+:::
+
+:::

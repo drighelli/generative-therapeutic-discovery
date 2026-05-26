@@ -1,0 +1,22 @@
+---
+title: "Call"
+---
+
+::: {.container-narrow}
+
+## Call for contributions
+
+The call for contributed talks and posters will be announced soon.
+
+We expect contributions related to:
+
+- Generative models for molecular design
+- Target identification and mechanism discovery
+- Perturbation-response modelling
+- Cell-state prediction
+- Multimodal and single-cell data integration
+- Foundation models for biology
+- Evaluation of biomedical generative systems
+- Interpretability and biological grounding
+
+:::

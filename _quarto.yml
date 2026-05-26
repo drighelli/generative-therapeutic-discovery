@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Generative Models for Therapeutic Discovery"
+  site-url: "https://YOUR-USERNAME.github.io/generative-therapeutic-discovery/"
+  navbar:
+    title: "GMTD 2026"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: programme.qmd
+        text: Programme
+      - href: speakers.qmd
+        text: Speakers
+      - href: call.qmd
+        text: Call
+      - href: registration.qmd
+        text: Registration
+      - href: venue.qmd
+        text: Venue
+      - href: organisers.qmd
+        text: Organisers
+  page-footer:
+    left: "Generative Models for Therapeutic Discovery"
+    center: "University of Cambridge · Computer Laboratory · 29–30 September 2026"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full

@@ -1,0 +1,38 @@
+---
+title: "Programme"
+---
+
+::: {.container-narrow}
+
+The detailed programme will be announced closer to the workshop.
+
+## Day 1 — Tuesday, 29 September 2026
+
+| Time | Session |
+|---|---|
+| 09:30–10:00 | Registration and coffee |
+| 10:00–10:15 | Welcome and opening remarks |
+| 10:15–11:00 | Keynote lecture |
+| 11:00–11:30 | Coffee break |
+| 11:30–13:00 | Session 1 — Molecular generation and therapeutic design |
+| 13:00–14:00 | Lunch |
+| 14:00–15:30 | Session 2 — Targets, mechanisms and disease models |
+| 15:30–16:00 | Coffee break |
+| 16:00–17:30 | Contributed talks / posters |
+| 17:30–18:00 | Discussion |
+
+## Day 2 — Wednesday, 30 September 2026
+
+| Time | Session |
+|---|---|
+| 09:30–10:00 | Coffee |
+| 10:00–10:45 | Keynote lecture |
+| 10:45–11:15 | Coffee break |
+| 11:15–12:45 | Session 3 — Cell-state responses and perturbation models |
+| 12:45–14:00 | Lunch |
+| 14:00–15:30 | Session 4 — Multimodal and foundation models for biology |
+| 15:30–16:00 | Coffee break |
+| 16:00–17:00 | Panel discussion |
+| 17:00–17:15 | Closing remarks |
+
+:::
