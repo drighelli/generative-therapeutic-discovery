@@ -22,10 +22,12 @@ United Kingdom
     scrolling="no"
     marginheight="0"
     marginwidth="0"
-    src="https://www.openstreetmap.org/export/embed.html?bbox=0.0875%2C52.2070%2C0.0965%2C52.2125&amp;layer=mapnik&amp;marker=52.2098%2C0.0920">
+    src="https://www.openstreetmap.org/export/embed.html?bbox=0.0875%2C52.2070%2C0.0965%2C52.2125&amp;layer=mapnik&amp;marker=52.2098%2C0.0920">src="https://www.openstreetmap.org/export/embed.html?bbox=0.0875%2C52.2070%2C0.0965%2C52.2125&amp;layer=mapnik&amp;marker=52.2098%2C0.0920">
 </iframe>
 :::
 
-[Open larger map](https://www.openstreetmap.org/?mlat=52.2098&mlon=0.0920#map=16/52.2098/0.0920){target="_blank"}
-
 [Open the venue on the University of Cambridge map](https://map.cam.ac.uk/Computer+Laboratory){target="_blank"}
+
+## Getting there
+
+The **William Gates Building** is located on the West Cambridge site, off Madingley Road. Further travel information will be added closer to the workshop.
