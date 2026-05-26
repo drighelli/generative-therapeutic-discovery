@@ -9,25 +9,28 @@ title: "Organisers"
 ::: {.organiser-grid}
 
 ::: {.organiser-card}
+![](assets/img/organisers/pietro-lio.svg){.organiser-photo fig-alt="Pietro Liò"}
+
+### Prof. Pietro Liò  
+**University of Cambridge, Cambridge, UK**
+:::
+
+::: {.organiser-card}
 ![](assets/img/organisers/dario-righelli.svg){.organiser-photo fig-alt="Dario Righelli"}
 
 ### Dario Righelli  
-**University of Cambridge / University of Padova**
+**University of Cambridge, Cambridge, UK**
+**University of Padova, Padua, Italy**
 :::
 
 ::: {.organiser-card}
 ![](assets/img/organisers/cristian-taccioli.svg){.organiser-photo fig-alt="Cristian Taccioli"}
 
-### Cristian Taccioli  
-**University of Cambridge / University of Padova**
+### Prof. Cristian Taccioli  
+**University of Cambridge, Cambridge, UK**
+**University of Padova, Padua, Italy**
 :::
 
-::: {.organiser-card}
-![](assets/img/organisers/pietro-lio.svg){.organiser-photo fig-alt="Pietro Liò"}
-
-### Pietro Liò  
-**University of Cambridge**
-:::
 
 :::
 
