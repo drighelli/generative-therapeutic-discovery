@@ -5,7 +5,7 @@ subtitle: "Learning molecules, targets and cell-state responses"
 
 ::: {.hero}
 
-# Generative Models for Therapeutic Discovery
+# Generative Models for Therapeutic Discovery 2026
 
 ## Learning molecules, targets and cell-state responses
 

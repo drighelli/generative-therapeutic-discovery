@@ -18,7 +18,7 @@ title: "Organisers"
 ::: {.organiser-card}
 ![](assets/img/organisers/dario-righelli.svg){.organiser-photo fig-alt="Dario Righelli"}
 
-### Dario Righelli  
+### Dr. Dario Righelli  
 **University of Cambridge, Cambridge, UK**
 **University of Padova, Padua, Italy**
 :::
