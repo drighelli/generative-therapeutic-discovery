@@ -7,6 +7,8 @@ website:
   site-url: "https://YOUR-USERNAME.github.io/generative-therapeutic-discovery/"
   navbar:
     title: "GMTD 2026"
+    logo: assets/img/logo_alpha.png
+    logo-alt: "GMTD 2026 logo"
     left:
       - href: index.qmd
         text: Home

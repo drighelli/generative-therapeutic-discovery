@@ -131,3 +131,18 @@ footer.footer {
 .map-container iframe {
     display: block;
 }
+
+.navbar-logo {
+    max-height: 34px;
+    width: auto;
+    border-radius: 8px;
+}
+
+.hero-logo {
+    width: min(220px, 45vw);
+    height: auto;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+    border-radius: 2rem;
+    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.35);
+}
