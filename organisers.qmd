@@ -9,14 +9,14 @@ title: "Organisers"
 ::: {.organiser-grid}
 
 ::: {.organiser-card}
-![](assets/img/organisers/pietro-lio.svg){.organiser-photo fig-alt="Pietro Liò"}
+![](assets/img/organisers/pietro-lio.jpeg){.organiser-photo fig-alt="Pietro Liò"}
 
 ### Prof. Pietro Liò  
 **University of Cambridge, Cambridge, UK**
 :::
 
 ::: {.organiser-card}
-![](assets/img/organisers/dario-righelli.svg){.organiser-photo fig-alt="Dario Righelli"}
+![](assets/img/organisers/dario-righelli.png){.organiser-photo fig-alt="Dario Righelli"}
 
 ### Dr. Dario Righelli  
 **University of Cambridge, Cambridge, UK**
@@ -24,7 +24,7 @@ title: "Organisers"
 :::
 
 ::: {.organiser-card}
-![](assets/img/organisers/cristian-taccioli.svg){.organiser-photo fig-alt="Cristian Taccioli"}
+![](assets/img/organisers/cristian-taccioli.png){.organiser-photo fig-alt="Cristian Taccioli"}
 
 ### Prof. Cristian Taccioli  
 **University of Cambridge, Cambridge, UK**

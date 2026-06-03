@@ -139,10 +139,11 @@ footer.footer {
 }
 
 .hero-logo {
-    width: min(220px, 45vw);
+    width: 100px;
+    max-width: 35%;
     height: auto;
     display: block;
     margin: 0 auto 1.5rem auto;
-    border-radius: 2rem;
+    border-radius: 1.25rem;
     box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.35);
 }
