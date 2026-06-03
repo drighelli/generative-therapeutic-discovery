@@ -1,11 +1,10 @@
 ---
-title: "Generative Models for Therapeutic Discovery"
-subtitle: "Learning molecules, targets and cell-state responses"
+title: ""
 ---
 
 ::: {.hero}
 
-![](assets/img/logo_alpha.png){.hero-logo fig-alt="GMTD 2026 logo"}
+![](assets/img/logo_alpha2.png){.hero-logo fig-alt="GMTD 2026 logo"}
 
 # Generative Models for Therapeutic Discovery 2026
 
@@ -77,36 +76,32 @@ Structured models connecting molecules, targets, cells, pathways and patients.
 :::
 
 
-::: {.container-narrow}
+::: {.organiser-grid .organiser-grid-compact}
 
-## Organising committee
+::: {.organiser-card .compact}
+[![](assets/img/organisers/pietro-lio.jpeg){.organiser-photo fig-alt="Pietro Liò"}](https://www.cl.cam.ac.uk/~pl219/){target="_blank"}
 
-::: {.organiser-grid}
+### [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/){target="_blank"}
 
-::: {.organiser-card}
-![](assets/img/organisers/pietro-lio.jpeg){.organiser-photo fig-alt="Pietro Liò"}
-
-### Prof. Pietro Liò  
 **University of Cambridge, Cambridge, UK**
 :::
 
-::: {.organiser-card}
-![](assets/img/organisers/dario-righelli.png){.organiser-photo fig-alt="Dario Righelli"}
+::: {.organiser-card .compact}
+[![](assets/img/organisers/dario-righelli.png){.organiser-photo fig-alt="Dario Righelli"}](https://www.github.com/drighelli){target="_blank"}
 
-### Dr. Dario Righelli  
-**University of Cambridge, Cambridge, UK**
+### [Dr. Dario Righelli](https://www.github.com/drighelli){target="_blank"}
+
+**University of Cambridge, Cambridge, UK** <br>
 **University of Padova, Padua, Italy**
 :::
 
-::: {.organiser-card}
-![](assets/img/organisers/cristian-taccioli.png){.organiser-photo fig-alt="Cristian Taccioli"}
+::: {.organiser-card .compact}
+[![](assets/img/organisers/cristian-taccioli.png){.organiser-photo fig-alt="Cristian Taccioli"}](https://tacclab.org/){target="_blank"}
 
-### Prof. Cristian Taccioli  
-**University of Cambridge, Cambridge, UK**
+### [Prof. Cristian Taccioli](https://tacclab.org/){target="_blank"}
+
+**University of Cambridge, Cambridge, UK** <br>
 **University of Padova, Padua, Italy**
-:::
-
-
 :::
 
 :::

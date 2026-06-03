@@ -5,44 +5,75 @@
     --workshop-purple: #5b4b8a;
     --workshop-accent: #6c63ff;
     --workshop-bg-soft: rgba(108, 99, 255, 0.08);
+    --workshop-border-soft: rgba(108, 99, 255, 0.18);
 }
+
+/* Navigation */
 
 .navbar-title {
     font-weight: 700;
     letter-spacing: 0.02em;
 }
 
+.navbar-logo {
+    max-height: 34px;
+    width: auto;
+    border-radius: 8px;
+}
+
+/* Hero */
+/* Hero */
+
 .hero {
-    padding: 5rem 2rem;
-    margin: 0 0 3rem 0;
-    border-radius: 0 0 2rem 2rem;
+    padding: 3rem 2rem;
+    margin: 0 0 2.2rem 0;
+    border-radius: 1.5rem;
     background:
-        radial-gradient(circle at 10% 20%, rgba(108, 99, 255, 0.35), transparent 25%),
-        radial-gradient(circle at 90% 10%, rgba(47, 128, 237, 0.25), transparent 30%),
+        radial-gradient(circle at 10% 20%, rgba(108, 99, 255, 0.28), transparent 25%),
+        radial-gradient(circle at 90% 10%, rgba(47, 128, 237, 0.20), transparent 30%),
         linear-gradient(135deg, #101828, #243b53 55%, #352f5b);
     color: white;
     text-align: center;
 }
 
+.hero-logo {
+    width: 72px;
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin: 0 auto 1rem auto;
+    border-radius: 1rem;
+    box-shadow: 0 0.7rem 1.8rem rgba(0, 0, 0, 0.30);
+}
+
 .hero h1 {
+    max-width: 920px;
+    margin: 0 auto 1rem auto;
     font-weight: 800;
-    font-size: clamp(2.2rem, 5vw, 4rem);
-    margin-bottom: 1rem;
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    line-height: 1.12;
 }
 
 .hero h2 {
-    font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+    font-size: clamp(1.05rem, 2vw, 1.45rem);
     font-weight: 400;
-    margin-bottom: 2rem;
+    margin-bottom: 1.2rem;
     opacity: 0.95;
 }
 
-.hero .btn {
-    margin: 0.4rem;
-    border-radius: 999px;
-    padding-left: 1.3rem;
-    padding-right: 1.3rem;
+.hero hr {
+    margin: 1rem auto 1.4rem auto;
+    max-width: 860px;
+    opacity: 0.25;
 }
+
+.hero .btn {
+    margin: 0.3rem;
+    border-radius: 999px;
+    padding: 0.45rem 1.1rem;
+}
+
+/* Layout helpers */
 
 .container-narrow {
     max-width: 980px;
@@ -52,6 +83,8 @@
     padding-right: 1.2rem;
 }
 
+/* Topic cards */
+
 .topic-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -59,39 +92,23 @@
     margin: 1.5rem 0 2.5rem 0;
 }
 
-.topic-card,
-.organiser-card {
+.topic-card {
     padding: 1.25rem;
     border-radius: 1rem;
     background: var(--workshop-bg-soft);
-    border: 1px solid rgba(108, 99, 255, 0.18);
+    border: 1px solid var(--workshop-border-soft);
 }
 
 .topic-card strong {
     color: var(--workshop-accent);
 }
 
-.organiser-card {
-    margin-bottom: 1rem;
-}
-
-.organiser-card h3 {
-    margin-top: 0;
-}
-
-table {
-    width: 100%;
-}
-
-footer.footer {
-    margin-top: 4rem;
-}
-
 /* Organisers */
+
 .organiser-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 1.25rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.4rem;
     align-items: stretch;
     margin-top: 1.5rem;
 }
@@ -99,26 +116,125 @@ footer.footer {
 .organiser-card {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    text-align: center;
     height: 100%;
+    padding: 1.6rem 1.4rem;
     margin-bottom: 0;
+    border-radius: 1rem;
+    background:
+        linear-gradient(180deg, rgba(108, 99, 255, 0.12), rgba(108, 99, 255, 0.06));
+    border: 1px solid rgba(108, 99, 255, 0.28);
 }
 
 .organiser-photo {
-    width: 150px;
-    height: 150px;
+    width: 135px;
+    height: 135px;
     object-fit: cover;
     border-radius: 999px;
     border: 3px solid rgba(255, 255, 255, 0.18);
-    margin-bottom: 1rem;
+    margin: 0 auto 1.2rem auto;
     background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 0.6rem 1.4rem rgba(0, 0, 0, 0.28);
 }
 
 .organiser-card h3 {
-    margin-top: 0.4rem;
-    margin-bottom: 0.35rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+    line-height: 1.15;
 }
+
+.organiser-card h3 a,
+.organiser-card h3 a:visited {
+    color: #9ec5ff !important;
+    text-decoration: none;
+}
+
+.organiser-card h3 a:hover {
+    color: #cfe2ff !important;
+    text-decoration: underline;
+}
+
+.organiser-card strong {
+    display: block;
+    font-size: 0.92rem;
+    line-height: 1.35;
+    margin-bottom: 1rem;
+    color: rgba(255, 255, 255, 0.86);
+}
+
+/* Compact organiser cards, used on the homepage */
+
+.organiser-card.compact {
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    min-height: 330px;
+}
+
+.organiser-card.compact h3 {
+    text-align: center;
+}
+
+.organiser-card.compact strong {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+/* Detailed organiser cards, used on the organisers page */
+
+.organiser-card.detailed {
+    align-items: center;
+    text-align: center;
+}
+
+.organiser-card.detailed h3 {
+    text-align: center;
+}
+
+.organiser-card.detailed strong {
+    text-align: center;
+}
+
+.organiser-card.detailed p {
+    margin: 0.4rem 0 0 0;
+    font-size: 0.92rem;
+    line-height: 1.55;
+    color: rgba(255, 255, 255, 0.82);
+    text-align: left;
+}
+
+/* Responsive organisers */
+
+@media (max-width: 1100px) {
+    .organiser-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 720px) {
+    .organiser-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.organiser-affiliation {
+    min-height: 4.8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 1rem;
+    font-size: 0.92rem;
+    line-height: 1.35;
+    color: rgba(255, 255, 255, 0.86);
+    text-align: center;
+}
+
+.organiser-affiliation p {
+    margin: 0;
+}
+
+/* Venue map */
 
 .map-container {
     margin-top: 1.5rem;
@@ -132,18 +248,12 @@ footer.footer {
     display: block;
 }
 
-.navbar-logo {
-    max-height: 34px;
-    width: auto;
-    border-radius: 8px;
+/* Tables and footer */
+
+table {
+    width: 100%;
 }
 
-.hero-logo {
-    width: 100px;
-    max-width: 35%;
-    height: auto;
-    display: block;
-    margin: 0 auto 1.5rem auto;
-    border-radius: 1.25rem;
-    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.35);
+footer.footer {
+    margin-top: 4rem;
 }

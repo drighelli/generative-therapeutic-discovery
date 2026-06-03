@@ -23,44 +23,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Generative Models for Therapeutic Discovery",
+    "title": "Generative Models for Therapeutic Discovery 2026",
     "section": "",
     "text": "University of Cambridge · Computer Laboratory\n29–30 September 2026 · Cambridge, United Kingdom\nRegister interest View programme"
   },
   {
     "objectID": "index.html#learning-molecules-targets-and-cell-state-responses",
     "href": "index.html#learning-molecules-targets-and-cell-state-responses",
-    "title": "Generative Models for Therapeutic Discovery",
+    "title": "Generative Models for Therapeutic Discovery 2026",
     "section": "",
     "text": "University of Cambridge · Computer Laboratory\n29–30 September 2026 · Cambridge, United Kingdom\nRegister interest View programme"
   },
   {
     "objectID": "index.html#about-the-workshop",
     "href": "index.html#about-the-workshop",
-    "title": "Generative Models for Therapeutic Discovery",
+    "title": "Generative Models for Therapeutic Discovery 2026",
     "section": "About the workshop",
     "text": "About the workshop\nRecent advances in generative artificial intelligence are reshaping therapeutic discovery, moving beyond the design of individual molecules toward models that can connect chemical structure, biological targets, disease mechanisms and cellular responses. At the same time, the rapid growth of high-dimensional biomedical data — including multi-omics, perturbation screens, single-cell profiling, imaging and clinical datasets — creates new opportunities to learn representations of biological systems that are both predictive and mechanistically informative.\nThis workshop will bring together researchers working at the interface of machine learning, computational biology and drug discovery to discuss how generative and relational models can support the discovery of new therapeutic hypotheses. Topics will include molecular generation, target identification, perturbation-response modelling, cell-state prediction, multimodal data integration, foundation models for biology, and evaluation strategies for biomedical generative systems.\nA central theme of the workshop is the shift from generating candidate molecules in isolation to learning structured relationships between molecules, targets, pathways, cell states and disease contexts. By connecting these levels, generative models may help prioritize interventions, predict therapeutic effects, and reveal mechanisms underlying treatment response. The workshop aims to foster discussion on methodological advances, practical applications and open challenges in building reliable, interpretable and biologically grounded models for therapeutic discovery."
   },
   {
     "objectID": "index.html#topics",
     "href": "index.html#topics",
-    "title": "Generative Models for Therapeutic Discovery",
+    "title": "Generative Models for Therapeutic Discovery 2026",
     "section": "Topics",
     "text": "Topics\n\n\nMolecular generation\nGenerative models for molecular design, optimization and prioritization.\n\n\nTargets and mechanisms\nLearning relationships between targets, pathways, disease states and therapeutic hypotheses.\n\n\nCell-state responses\nPerturbation-response modelling, single-cell profiles and cellular state prediction.\n\n\nMultimodal biomedical data\nMulti-omics, imaging, clinical data and foundation models for biology.\n\n\nEvaluation and validation\nBenchmarking, interpretability, biological grounding and reproducibility.\n\n\nRelational modelling\nStructured models connecting molecules, targets, cells, pathways and patients."
   },
   {
     "objectID": "index.html#key-information",
     "href": "index.html#key-information",
-    "title": "Generative Models for Therapeutic Discovery",
+    "title": "Generative Models for Therapeutic Discovery 2026",
     "section": "Key information",
     "text": "Key information\n\n\n\nItem\nDetails\n\n\n\n\nDates\n29–30 September 2026\n\n\nLocation\nUniversity of Cambridge, Computer Laboratory\n\n\nFormat\nTwo-day in-person workshop\n\n\nRegistration\nOpening soon\n\n\nSpeakers\nTo be announced"
-  },
-  {
-    "objectID": "index.html#organising-committee",
-    "href": "index.html#organising-committee",
-    "title": "Generative Models for Therapeutic Discovery",
-    "section": "Organising committee",
-    "text": "Organising committee\n\n\n\n\nProf. Pietro Liò\nUniversity of Cambridge, Cambridge, UK\n\n\n\n\n\nDr. Dario Righelli\nUniversity of Cambridge, Cambridge, UK University of Padova, Padua, Italy\n\n\n\n\n\nProf. Cristian Taccioli\nUniversity of Cambridge, Cambridge, UK University of Padova, Padua, Italy"
   },
   {
     "objectID": "speakers.html",
@@ -81,14 +74,7 @@
     "href": "venue.html",
     "title": "Venue",
     "section": "",
-    "text": "The workshop will take place at the University of Cambridge Computer Laboratory, located in the William Gates Building on the West Cambridge site.\nAddress\nDepartment of Computer Science and Technology\nUniversity of Cambridge\nWilliam Gates Building\n15 JJ Thomson Avenue\nCambridge CB3 0FD\nUnited Kingdom\n\n\n\n\nOpen the venue on the University of Cambridge map"
-  },
-  {
-    "objectID": "venue.html#venue",
-    "href": "venue.html#venue",
-    "title": "Venue",
-    "section": "",
-    "text": "The workshop will take place at the University of Cambridge Computer Laboratory, located in the William Gates Building on the West Cambridge site.\nAddress\nDepartment of Computer Science and Technology\nUniversity of Cambridge\nWilliam Gates Building\n15 JJ Thomson Avenue\nCambridge CB3 0FD\nUnited Kingdom\n\n\n\n\nOpen the venue on the University of Cambridge map"
+    "text": "The workshop will take place at the University of Cambridge Computer Laboratory, located in the William Gates Building on the West Cambridge site.\nAddress\nDepartment of Computer Science and Technology\nUniversity of Cambridge\nWilliam Gates Building\n15 JJ Thomson Avenue\nCambridge CB3 0FD\nUnited Kingdom\nOpen the venue on OpenStreetMap"
   },
   {
     "objectID": "venue.html#getting-there",
@@ -121,15 +107,8 @@
   {
     "objectID": "organisers.html",
     "href": "organisers.html",
-    "title": "Organisers",
+    "title": "Organising Committee",
     "section": "",
-    "text": "University of Cambridge, Cambridge, UK\nPietro Liò is Professor at the Department of Computer Science and Technology, University of Cambridge, where he is a member of the Artificial Intelligence group. He is also a member of the Cambridge Centre for AI in Medicine. His research focuses on computational models for biomedical data, including graph-based learning, multi-omics integration, disease modelling and precision medicine.\n\n\n\n\n\n\nUniversity of Cambridge, Cambridge, UK  University of Padova, Padua, Italy\nDario Righelli is a Tenure Track Assistant Professor at the University of Padova and a Visiting Researcher at the University of Cambridge. His work focuses on computational methods for single-cell, spatial and multimodal omics data, with interests in biological network modelling, representation learning and reproducible software for biomedical data analysis.\n\n\n\n\n\n\nUniversity of Cambridge, Cambridge, UK  University of Padova, Padua, Italy\nCristian Taccioli is Associate Professor at the University of Padova and Visiting Professor at the University of Cambridge. His research lies at the interface of computational biology, molecular biology and biomedical research, focusing on high-dimensional biological data and molecular mechanisms relevant to disease."
-  },
-  {
-    "objectID": "organisers.html#organising-committee",
-    "href": "organisers.html#organising-committee",
-    "title": "Organisers",
-    "section": "",
-    "text": "University of Cambridge, Cambridge, UK\nPietro Liò is Professor at the Department of Computer Science and Technology, University of Cambridge, where he is a member of the Artificial Intelligence group. He is also a member of the Cambridge Centre for AI in Medicine. His research focuses on computational models for biomedical data, including graph-based learning, multi-omics integration, disease modelling and precision medicine.\n\n\n\n\n\n\nUniversity of Cambridge, Cambridge, UK  University of Padova, Padua, Italy\nDario Righelli is a Tenure Track Assistant Professor at the University of Padova and a Visiting Researcher at the University of Cambridge. His work focuses on computational methods for single-cell, spatial and multimodal omics data, with interests in biological network modelling, representation learning and reproducible software for biomedical data analysis.\n\n\n\n\n\n\nUniversity of Cambridge, Cambridge, UK  University of Padova, Padua, Italy\nCristian Taccioli is Associate Professor at the University of Padova and Visiting Professor at the University of Cambridge. His research lies at the interface of computational biology, molecular biology and biomedical research, focusing on high-dimensional biological data and molecular mechanisms relevant to disease."
+    "text": "Prof. Pietro Liò\n\nUniversity of Cambridge, Cambridge, UK\n\nPietro Liò is Professor at the Department of Computer Science and Technology, University of Cambridge, where he is a member of the Artificial Intelligence group. He is also a member of the Cambridge Centre for AI in Medicine. His research focuses on computational models for biomedical data, including graph-based learning, multi-omics integration, disease modelling and precision medicine.\n\n\n\n\n\nDr. Dario Righelli\n\nUniversity of Cambridge, Cambridge, UK University of Padova, Padua, Italy\n\nDario Righelli is a Tenure Track Assistant Professor at the University of Padova and a Visiting Researcher at the University of Cambridge. His work focuses on computational methods for single-cell, spatial and multimodal omics data, with interests in biological network modelling, representation learning and reproducible software for biomedical data analysis.\n\n\n\n\n\nProf. Cristian Taccioli\n\nUniversity of Cambridge, Cambridge, UK University of Padova, Padua, Italy\n\nCristian Taccioli is Associate Professor at the University of Padova and Visiting Professor at the University of Cambridge. His research lies at the interface of computational biology, molecular biology and biomedical research, focusing on high-dimensional biological data and molecular mechanisms relevant to disease."
   }
 ]

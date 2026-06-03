@@ -2,8 +2,6 @@
 title: "Venue"
 ---
 
-## Venue
-
 The workshop will take place at the **University of Cambridge Computer Laboratory**, located in the **William Gates Building** on the West Cambridge site.
 
 **Address**  
@@ -22,11 +20,12 @@ United Kingdom
     scrolling="no"
     marginheight="0"
     marginwidth="0"
-    src="https://www.openstreetmap.org/export/embed.html?bbox=0.0885%2C52.2085%2C0.0955%2C52.2120&amp;layer=mapnik&amp;marker=52.21027%2C0.09192">
+    src="https://www.openstreetmap.org/export/embed.html?bbox=0.0885%2C52.2088%2C0.0955%2C52.2123&amp;layer=mapnik&amp;marker=52.21088%2C0.09192">
 </iframe>
 :::
 
-[Open the venue on the University of Cambridge map](https://map.cam.ac.uk/Computer+Laboratory){target="_blank"}
+[Open the venue on OpenStreetMap](https://www.openstreetmap.org/?mlat=52.21088&mlon=0.09192#map=17/52.21088/0.09192){target="_blank"}
+
 
 ## Getting there
 
