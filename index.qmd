@@ -11,7 +11,8 @@ title: ""
 ## Learning molecules, targets and cell-state responses
 
 **University of Cambridge · Computer Laboratory**  
-**29–30 September 2026 · Cambridge, United Kingdom**
+**29–30 September 2026** <br>
+**Cambridge, United Kingdom**
 
 [Register interest](registration.qmd){.btn .btn-primary .btn-lg} [View programme](programme.qmd){.btn .btn-outline-light .btn-lg}
 
