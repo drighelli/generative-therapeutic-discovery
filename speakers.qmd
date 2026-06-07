@@ -2,10 +2,29 @@
 title: "Speakers"
 ---
 
-::: {.container-narrow}
+::: {.speaker-gallery}
 
-## Invited speakers
+::: {.speaker-profile}
+[![](assets/img/speakers/tiansi-dong.jpg){.speaker-profile-photo fig-alt="Tiansi Dong"}](https://www.cst.cam.ac.uk/people/td540){target="_blank"}
 
-Speakers will be announced soon.
+### [Dr Tiansi Dong](https://www.cst.cam.ac.uk/people/td540){target="_blank"}
+
+Alan Turing Institute<br>
+University of Cambridge
+:::
+
+::: {.speaker-profile}
+![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Alessandro Bonetti"}
+
+### Dr Alessandro Bonetti
+
+AstraZeneca
+<!-- 
+[![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Alessandro Bonetti"}](URL){target="_blank"}
+
+### [Dr Alessandro Bonetti](URL){target="_blank"}
+
+AstraZeneca -->
+:::
 
 :::

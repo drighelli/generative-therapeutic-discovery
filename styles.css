@@ -234,6 +234,13 @@
     margin: 0;
 }
 
+.organiser-card h3 a::after,
+.organiser-card h3 a.external::after,
+.organiser-card h3 a[target="_blank"]::after {
+    display: none !important;
+    content: none !important;
+}
+
 /* Venue map */
 
 .map-container {
@@ -256,4 +263,87 @@ table {
 
 footer.footer {
     margin-top: 4rem;
+}
+
+/* Speakers */
+
+.speaker-gallery {
+    --speaker-photo-size: 200px;
+    --speaker-profile-width: 250px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(var(--speaker-profile-width), var(--speaker-profile-width)));
+    gap: 3rem 4rem;
+    justify-content: center;
+    align-items: start;
+    margin-top: 2rem;
+}
+
+.speaker-profile {
+    width: var(--speaker-profile-width);
+    justify-self: center;
+    text-align: center;
+}
+
+.speaker-profile-photo {
+    width: var(--speaker-photo-size) !important;
+    height: var(--speaker-photo-size) !important;
+    object-fit: cover;
+    border-radius: 999px;
+    display: block;
+    margin: 0 auto 1.4rem auto;
+    border: 4px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 0.7rem 1.6rem rgba(0, 0, 0, 0.28);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.speaker-profile a:hover .speaker-profile-photo {
+    transform: translateY(-2px);
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.35);
+}
+
+.speaker-profile h3 {
+    width: var(--speaker-photo-size);
+    margin: 0 auto 0.45rem auto !important;
+    font-size: 1.15rem !important;
+    line-height: 1.15 !important;
+    font-weight: 700;
+    text-align: center;
+}
+
+.speaker-profile h3 a,
+.speaker-profile h3 a:visited {
+    color: #9ec5ff !important;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+}
+
+.speaker-profile h3 a:hover {
+    color: #cfe2ff !important;
+}
+
+.speaker-profile p {
+    width: var(--speaker-photo-size);
+    margin: 0 auto !important;
+    font-size: 0.95rem !important;
+    line-height: 1.4 !important;
+    color: rgba(255, 255, 255, 0.86);
+    text-align: center;
+}
+
+@media (max-width: 700px) {
+    .speaker-gallery {
+        --speaker-photo-size: 220px;
+        --speaker-profile-width: 280px;
+
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+    }
+}
+
+.speaker-profile h3 a::after,
+.speaker-profile h3 a.external::after,
+.speaker-profile h3 a[target="_blank"]::after {
+    display: none !important;
+    content: none !important;
 }
