@@ -5,16 +5,7 @@ title: "Speakers"
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/tiansi-dong.jpg){.speaker-profile-photo fig-alt="Tiansi Dong"}](https://www.cst.cam.ac.uk/people/td540){target="_blank"}
-
-### [Dr Tiansi Dong](https://www.cst.cam.ac.uk/people/td540){target="_blank"}
-
-Alan Turing Institute<br>
-University of Cambridge
-:::
-
-::: {.speaker-profile}
-![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Alessandro Bonetti"}
+![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Dr Alessandro Bonetti"}
 
 ### Dr Alessandro Bonetti
 
@@ -26,5 +17,24 @@ AstraZeneca
 
 AstraZeneca -->
 :::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/gab-corso.jpeg){.speaker-profile-photo fig-alt="Dr Gabriele Corso"}](https://gcorso.github.io/){target="_blank"}
+
+### [Dr Gabriele Corso](https://gcorso.github.io/){target="_blank"}
+Boltz 
+
+:::
+
+
+::: {.speaker-profile}
+[![](assets/img/speakers/tiansi-dong.jpg){.speaker-profile-photo fig-alt="Dr Tiansi Dong"}](https://www.cst.cam.ac.uk/people/td540){target="_blank"}
+
+### [Dr Tiansi Dong](https://tiansidr.github.io/){target="_blank"}
+
+Alan Turing Institute<br>
+University of Cambridge
+:::
+
 
 :::
