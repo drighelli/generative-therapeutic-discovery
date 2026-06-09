@@ -22,7 +22,7 @@ AstraZeneca -->
 [![](assets/img/speakers/gab-corso.jpeg){.speaker-profile-photo fig-alt="Dr Gabriele Corso"}](https://gcorso.github.io/){target="_blank"}
 
 ### [Dr Gabriele Corso](https://gcorso.github.io/){target="_blank"}
-Boltz 
+Co-founder and CEO at Boltz 
 
 :::
 
