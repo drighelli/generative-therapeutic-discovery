@@ -36,5 +36,14 @@ Alan Turing Institute<br>
 University of Cambridge
 :::
 
+::: {.speaker-profile}
+[![](assets/img/speakers/mikemamalakis.png){.speaker-profile-photo fig-alt="Michail Mamalakis"}](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
+
+### [Michail Mamalakis](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
+
+CRUK Cambridge Institute<br>
+University of Cambridge
+:::
+
 
 :::
