@@ -5,24 +5,21 @@ title: "Speakers"
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
-![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Dr Alessandro Bonetti"}
+[![](assets/img/speakers/alessandro-bonetti.png){.speaker-profile-photo fig-alt="Dr Alessandro Bonetti"}](https://www.linkedin.com/in/alessandro-bonetti-087745a/){target="_blank"}
 
-### Dr Alessandro Bonetti
+### [Dr. Alessandro Bonetti](https://www.linkedin.com/in/alessandro-bonetti-087745a/){target="_blank"}
 
+Director at <br>
 AstraZeneca
-<!-- 
-[![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Alessandro Bonetti"}](URL){target="_blank"}
 
-### [Dr Alessandro Bonetti](URL){target="_blank"}
-
-AstraZeneca -->
 :::
 
 ::: {.speaker-profile}
 [![](assets/img/speakers/gab-corso.jpeg){.speaker-profile-photo fig-alt="Dr Gabriele Corso"}](https://gcorso.github.io/){target="_blank"}
 
-### [Dr Gabriele Corso](https://gcorso.github.io/){target="_blank"}
-Co-founder and CEO at Boltz 
+### [Dr. Gabriele Corso](https://gcorso.github.io/){target="_blank"}
+Co-founder and CEO at<br> 
+Boltz 
 
 :::
 
@@ -30,20 +27,68 @@ Co-founder and CEO at Boltz
 ::: {.speaker-profile}
 [![](assets/img/speakers/tiansi-dong.jpg){.speaker-profile-photo fig-alt="Dr Tiansi Dong"}](https://www.cst.cam.ac.uk/people/td540){target="_blank"}
 
-### [Dr Tiansi Dong](https://tiansidr.github.io/){target="_blank"}
+### [Dr. Tiansi Dong](https://tiansidr.github.io/){target="_blank"}
 
-Alan Turing Institute<br>
-University of Cambridge
+Research Scientist at <br>
+Alan Turing Institute
+:::
+
+
+::: {.speaker-profile}
+[![](assets/img/speakers/fabfro.jpeg){.speaker-profile-photo fig-alt="Dr. Fabian Frohlich"}](){target="_blank"}
+
+### [Dr. Fabian Frohlich](https://www.crick.ac.uk/research/labs/fabian-frohlich){target="_blank"}
+
+Group Leader at <br>
+The Francis Crick Institute
+:::
+
+
+::: {.speaker-profile}
+[![](assets/img/speakers/johawe.png){.speaker-profile-photo fig-alt="Dr. Johann Hawe"}](){target="_blank"}
+
+### [Dr. Johann Hawe](){target="_blank"}
+
+AI Engineer at <br>
+Illumina - Artificial Intelligence Lab
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/mikemamalakis.png){.speaker-profile-photo fig-alt="Michail Mamalakis"}](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
+[![](assets/img/speakers/mikemamalakis.png){.speaker-profile-photo fig-alt="Prof. Michail Mamalakis"}](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
 
-### [Michail Mamalakis](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
+### [Prof. Michail Mamalakis](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
 
-CRUK Cambridge Institute<br>
-University of Cambridge
+Assistant Research Professor at <br>
+CRUK Cambridge Institute
 :::
 
+
+::: {.speaker-profile}
+[![](assets/img/speakers/anu-limdi.png){.speaker-profile-photo fig-alt="Dr. Anurag Limdi"}](){target="_blank"}
+
+### [Dr. Anurag Limdi](){target="_blank"}
+
+ML Scientist at <br>
+EMBL-EBI
+:::
+
+
+
+::: {.speaker-profile}
+[![](assets/img/speakers/dav-mill.png){.speaker-profile-photo fig-alt="David Miller"}](){target="_blank"}
+
+### [David Miller](){target="_blank"}
+PhD Candidate at <br>
+University College London
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/est-wer.png){.speaker-profile-photo fig-alt="Dr. Esther Wershof"}](https://www.linkedin.com/in/esther-wershof-585b35220/3){target="_blank"}
+
+### [Dr. Esther Wershof](https://www.linkedin.com/in/esther-wershof-585b35220/){target="_blank"}
+
+Machine Learning Lead at <br>
+Altos Labs
+:::
 
 :::
