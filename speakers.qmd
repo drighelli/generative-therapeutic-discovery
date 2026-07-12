@@ -5,27 +5,32 @@ title: "Speakers"
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/ilaria-billato.jpeg){.speaker-profile-photo fig-alt="Ilaria Billato"}](){target="_blank"}
+[![](assets/img/speakers/ilaria-billato.jpeg){.speaker-profile-photo fig-alt="Ilaria Billato"}](https://github.com/billila){target="_blank"}
 
-### [Dr. Ilaria Billato](){target="_blank"}
+### [Dr. Ilaria Billato](https://github.com/billila){target="_blank"}
 
 PostDoc at <br>
 University of Padova, Dept. of Biology
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/tania-bobbo.png){.speaker-profile-photo fig-alt="Tania Bobbo"}](){target="_blank"}
+<!-- [![](assets/img/speakers/tania-bobbo.png){.speaker-profile-photo fig-alt="Tania Bobbo"}](){}
 
-### [Dr. Tania Bobbo](){target="_blank"}
+### [Dr. Tania Bobbo](){} -->
+
+![](assets/img/speakers/tania-bobbo.png){.speaker-profile-photo fig-alt="Tania Bobbo"}
+
+### Dr. Tania Bobbo
+
 
 CNR Researcher at <br>
 CNR IBBA Milano
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Dr. Alessandro Bonetti"}](https://www.linkedin.com/in/alessandro-bonetti-087745a/){target="_blank"}
+![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Dr. Alessandro Bonetti"}
 
-### [Dr. Alessandro Bonetti](https://www.linkedin.com/in/alessandro-bonetti-087745a/){target="_blank"}
+### Dr. Alessandro Bonetti
 
 Director at <br>
 AstraZeneca
@@ -59,27 +64,30 @@ The Francis Crick Institute
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/johawe.png){.speaker-profile-photo fig-alt="Dr. Johann Hawe"}](){target="_blank"}
+![](assets/img/speakers/johawe.png){.speaker-profile-photo fig-alt="Dr. Johann Hawe"}
 
-### [Dr. Johann Hawe](){target="_blank"}
+### Dr. Johann Hawe
 
 AI Engineer at <br>
 Illumina - Artificial Intelligence Lab
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/mikhail-kabeshov.jpeg){.speaker-profile-photo fig-alt="Dr. Mikhail Kabeshov"}](){target="_blank"}
+<!-- [![](assets/img/speakers/mikhail-kabeshov.jpeg){.speaker-profile-photo fig-alt="Dr. Mikhail Kabeshov"}](){target="_blank"}
 
-### [Dr. Mikhail Kabeshov](){target="_blank"}
+### [Dr. Mikhail Kabeshov](){target="_blank"} -->
+![](assets/img/speakers/mikhail-kabeshov.jpeg){.speaker-profile-photo fig-alt="Dr. Mikhail Kabeshov"}
+
+### Dr. Mikhail Kabeshov
 
 Project Leader at <br>
 AstraZeneca
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/anu-limdi.jpg){.speaker-profile-photo fig-alt="Dr. Anurag Limdi"}](){target="_blank"}
+![](assets/img/speakers/anu-limdi.jpg){.speaker-profile-photo fig-alt="Dr. Anurag Limdi"}
 
-### [Dr. Anurag Limdi](){target="_blank"}
+### Dr. Anurag Limdi
 
 ML Scientist at <br>
 EMBL-EBI
@@ -96,18 +104,21 @@ CRUK Cambridge Institute
 
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/lerry-melidis.png){.speaker-profile-photo fig-alt="Lerry Melidis"}](){target="_blank"}
+<!-- [![](assets/img/speakers/lerry-melidis.png){.speaker-profile-photo fig-alt="Lerry Melidis"}](){target="_blank"}
 
-### [Dr. Lerry Melidis](){target="_blank"}
+### [Dr. Lerry Melidis](){target="_blank"} -->
+![](assets/img/speakers/lerry-melidis.png){.speaker-profile-photo fig-alt="Lerry Melidis"}
+
+### Dr. Lerry Melidis
 
 PostDoc at <br>
 University of Cambridge, CRUK Cambridge Institute
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/dav-mill.png){.speaker-profile-photo fig-alt="David Miller"}](){target="_blank"}
+![](assets/img/speakers/dav-mill.png){.speaker-profile-photo fig-alt="David Miller"}
 
-### [David Miller](){target="_blank"}
+### David Miller
 
 PhD Candidate at <br>
 University College London
@@ -139,73 +150,73 @@ Altos Labs
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/fabio-bove.png){.speaker-profile-photo fig-alt="Fabio Bove"}](){target="_blank"}
+![](assets/img/speakers/fabio-bove.png){.speaker-profile-photo fig-alt="Fabio Bove"}
 
-### [Fabio Bove](){target="_blank"}
-
-PhD Student at <br>
-University of Padova
-:::
-
-::: {.speaker-profile}
-[![](assets/img/speakers/irwin-christofer.png){.speaker-profile-photo fig-alt="Irwin Christofer"}](){target="_blank"}
-
-### [Irwin Christofer](){target="_blank"}
-
-PhD Student at <br>
-University of Cambridge, Dept. of Computer Science and Technology
-:::
-
-::: {.speaker-profile}
-[![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Coretti"}](){target="_blank"}
-
-### [Massimiliano Coretti](){target="_blank"}
-
-PhD Student at <br>
-University of Cambridge, Dept. of Computer Science and Technology
-:::
-
-::: {.speaker-profile}
-[![](assets/img/speakers/andrea-di-francesco.jpeg){.speaker-profile-photo fig-alt="Andrea Giuseppe di Francesco"}](){target="_blank"}
-
-### [Andrea Giuseppe di Francesco](){target="_blank"}
-
-PhD Student at <br>
-University of Cambridge, Dept. of Computer Science and Technology
-:::
-
-
-::: {.speaker-profile}
-[![](assets/img/speakers/davide-rigoni.png){.speaker-profile-photo fig-alt="Davide Rigoni"}](){target="_blank"}
-
-### [Davide Rigoni](){target="_blank"}
+### Fabio Bove
 
 PhD Student at <br>
 University of Padova
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/salvo-romano.png){.speaker-profile-photo fig-alt="Salvo Romano"}](){target="_blank"}
+![](assets/img/speakers/irwin-christofer.png){.speaker-profile-photo fig-alt="Irwin Christofer"}
 
-### [Salvo Romano](){target="_blank"}
-
-PhD Student at <br>
-University of Cambridge, Dept. of Computer Science and Technology
-:::
-
-::: {.speaker-profile}
-[![](assets/img/speakers/andrea-rubbi.png){.speaker-profile-photo fig-alt="Andrea Rubbi"}](){target="_blank"}
-
-### [Andrea Rubbi](){target="_blank"}
+### Irwin Christofer
 
 PhD Student at <br>
 University of Cambridge, Dept. of Computer Science and Technology
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/wageesha-widuranga.png){.speaker-profile-photo fig-alt="Wageesha Widuranga"}](){target="_blank"}
+![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Coretti"}
 
-### [Wageesha Widuranga](){target="_blank"}
+### Massimiliano Coretti
+
+PhD Student at <br>
+University of Cambridge, Dept. of Computer Science and Technology
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/andrea-di-francesco.jpeg){.speaker-profile-photo fig-alt="Andrea Giuseppe di Francesco"}](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
+
+### [Andrea Giuseppe di Francesco](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
+
+PhD Student at <br>
+Sapienza University of Rome
+:::
+
+
+::: {.speaker-profile}
+![](assets/img/speakers/davide-rigoni.png){.speaker-profile-photo fig-alt="Davide Rigoni"}
+
+### Davide Rigoni
+
+PhD Student at <br>
+University of Padova
+:::
+
+::: {.speaker-profile}
+![](assets/img/speakers/salvo-romano.png){.speaker-profile-photo fig-alt="Salvo Romano"}
+
+### Salvo Romano
+
+PhD Student at <br>
+University of Catania
+:::
+
+::: {.speaker-profile}
+![](assets/img/speakers/andrea-rubbi.png){.speaker-profile-photo fig-alt="Andrea Rubbi"}
+
+### Andrea Rubbi
+
+PhD Student at <br>
+University of Cambridge, Dept. of Computer Science and Technology
+:::
+
+::: {.speaker-profile}
+![](assets/img/speakers/wageesha-widuranga.png){.speaker-profile-photo fig-alt="Wageesha Widuranga"}
+
+### Wageesha Widuranga
 
 PhD Student at <br>
 University of Padova
