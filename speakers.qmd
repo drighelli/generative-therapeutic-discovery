@@ -5,27 +5,43 @@ title: "Speakers"
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/alessandro-bonetti.png){.speaker-profile-photo fig-alt="Dr Alessandro Bonetti"}](https://www.linkedin.com/in/alessandro-bonetti-087745a/){target="_blank"}
+[![](assets/img/speakers/ilaria-billato.jpeg){.speaker-profile-photo fig-alt="Ilaria Billato"}](){target="_blank"}
+
+### [Dr. Ilaria Billato](){target="_blank"}
+
+PostDoc at <br>
+University of Padova, Dept. of Biology
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/tania-bobbo.png){.speaker-profile-photo fig-alt="Tania Bobbo"}](){target="_blank"}
+
+### [Dr. Tania Bobbo](){target="_blank"}
+
+CNR Researcher at <br>
+CNR IBBA Milano
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/alessandro-bonetti.jpg){.speaker-profile-photo fig-alt="Dr. Alessandro Bonetti"}](https://www.linkedin.com/in/alessandro-bonetti-087745a/){target="_blank"}
 
 ### [Dr. Alessandro Bonetti](https://www.linkedin.com/in/alessandro-bonetti-087745a/){target="_blank"}
 
 Director at <br>
 AstraZeneca
-
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/gab-corso.jpeg){.speaker-profile-photo fig-alt="Dr Gabriele Corso"}](https://gcorso.github.io/){target="_blank"}
+[![](assets/img/speakers/gab-corso.jpeg){.speaker-profile-photo fig-alt="Dr. Gabriele Corso"}](https://gcorso.github.io/){target="_blank"}
 
 ### [Dr. Gabriele Corso](https://gcorso.github.io/){target="_blank"}
-Co-founder and CEO at<br> 
-Boltz 
 
+Co-founder and CEO at <br>
+Boltz
 :::
 
-
 ::: {.speaker-profile}
-[![](assets/img/speakers/tiansi-dong.jpg){.speaker-profile-photo fig-alt="Dr Tiansi Dong"}](https://www.cst.cam.ac.uk/people/td540){target="_blank"}
+[![](assets/img/speakers/tiansi-dong.jpg){.speaker-profile-photo fig-alt="Dr. Tiansi Dong"}](https://tiansidr.github.io/){target="_blank"}
 
 ### [Dr. Tiansi Dong](https://tiansidr.github.io/){target="_blank"}
 
@@ -33,16 +49,14 @@ Research Scientist at <br>
 Alan Turing Institute
 :::
 
-
 ::: {.speaker-profile}
-[![](assets/img/speakers/fabfro.jpeg){.speaker-profile-photo fig-alt="Dr. Fabian Frohlich"}](){target="_blank"}
+[![](assets/img/speakers/fabfro.jpeg){.speaker-profile-photo fig-alt="Dr. Fabian Frohlich"}](https://www.crick.ac.uk/research/labs/fabian-frohlich){target="_blank"}
 
 ### [Dr. Fabian Frohlich](https://www.crick.ac.uk/research/labs/fabian-frohlich){target="_blank"}
 
 Group Leader at <br>
 The Francis Crick Institute
 :::
-
 
 ::: {.speaker-profile}
 [![](assets/img/speakers/johawe.png){.speaker-profile-photo fig-alt="Dr. Johann Hawe"}](){target="_blank"}
@@ -51,6 +65,24 @@ The Francis Crick Institute
 
 AI Engineer at <br>
 Illumina - Artificial Intelligence Lab
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/mikhail-kabeshov.jpeg){.speaker-profile-photo fig-alt="Dr. Mikhail Kabeshov"}](){target="_blank"}
+
+### [Dr. Mikhail Kabeshov](){target="_blank"}
+
+Project Leader at <br>
+AstraZeneca
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/anu-limdi.jpg){.speaker-profile-photo fig-alt="Dr. Anurag Limdi"}](){target="_blank"}
+
+### [Dr. Anurag Limdi](){target="_blank"}
+
+ML Scientist at <br>
+EMBL-EBI
 :::
 
 ::: {.speaker-profile}
@@ -64,31 +96,119 @@ CRUK Cambridge Institute
 
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/anu-limdi.png){.speaker-profile-photo fig-alt="Dr. Anurag Limdi"}](){target="_blank"}
+[![](assets/img/speakers/lerry-melidis.png){.speaker-profile-photo fig-alt="Lerry Melidis"}](){target="_blank"}
 
-### [Dr. Anurag Limdi](){target="_blank"}
+### [Dr. Lerry Melidis](){target="_blank"}
 
-ML Scientist at <br>
-EMBL-EBI
+PostDoc at <br>
+University of Cambridge, CRUK Cambridge Institute
 :::
-
-
 
 ::: {.speaker-profile}
 [![](assets/img/speakers/dav-mill.png){.speaker-profile-photo fig-alt="David Miller"}](){target="_blank"}
 
 ### [David Miller](){target="_blank"}
+
 PhD Candidate at <br>
 University College London
 :::
 
+
 ::: {.speaker-profile}
-[![](assets/img/speakers/est-wer.png){.speaker-profile-photo fig-alt="Dr. Esther Wershof"}](https://www.linkedin.com/in/esther-wershof-585b35220/3){target="_blank"}
+[![](assets/img/speakers/bianca-pierattini.jpg){.speaker-profile-photo fig-alt="Bianca Pierattini"}](https://www.linkedin.com/in/biancapierattini){target="_blank"}
+
+### [Dr. Bianca Pierattini](https://www.linkedin.com/in/biancapierattini){target="_blank"}
+
+PostDoc at <br>
+University of Cambridge, Biochemistry Department
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/est-wer.jpg){.speaker-profile-photo fig-alt="Dr. Esther Wershof"}](https://www.linkedin.com/in/esther-wershof-585b35220/){target="_blank"}
 
 ### [Dr. Esther Wershof](https://www.linkedin.com/in/esther-wershof-585b35220/){target="_blank"}
 
 Machine Learning Lead at <br>
 Altos Labs
+:::
+
+:::
+
+##
+
+::: {.speaker-gallery}
+
+::: {.speaker-profile}
+[![](assets/img/speakers/fabio-bove.png){.speaker-profile-photo fig-alt="Fabio Bove"}](){target="_blank"}
+
+### [Fabio Bove](){target="_blank"}
+
+PhD Student at <br>
+University of Padova
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/irwin-christofer.png){.speaker-profile-photo fig-alt="Irwin Christofer"}](){target="_blank"}
+
+### [Irwin Christofer](){target="_blank"}
+
+PhD Student at <br>
+University of Cambridge, Dept. of Computer Science and Technology
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Coretti"}](){target="_blank"}
+
+### [Massimiliano Coretti](){target="_blank"}
+
+PhD Student at <br>
+University of Cambridge, Dept. of Computer Science and Technology
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/andrea-di-francesco.jpeg){.speaker-profile-photo fig-alt="Andrea Giuseppe di Francesco"}](){target="_blank"}
+
+### [Andrea Giuseppe di Francesco](){target="_blank"}
+
+PhD Student at <br>
+University of Cambridge, Dept. of Computer Science and Technology
+:::
+
+
+::: {.speaker-profile}
+[![](assets/img/speakers/davide-rigoni.png){.speaker-profile-photo fig-alt="Davide Rigoni"}](){target="_blank"}
+
+### [Davide Rigoni](){target="_blank"}
+
+PhD Student at <br>
+University of Padova
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/salvo-romano.png){.speaker-profile-photo fig-alt="Salvo Romano"}](){target="_blank"}
+
+### [Salvo Romano](){target="_blank"}
+
+PhD Student at <br>
+University of Cambridge, Dept. of Computer Science and Technology
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/andrea-rubbi.png){.speaker-profile-photo fig-alt="Andrea Rubbi"}](){target="_blank"}
+
+### [Andrea Rubbi](){target="_blank"}
+
+PhD Student at <br>
+University of Cambridge, Dept. of Computer Science and Technology
+:::
+
+::: {.speaker-profile}
+[![](assets/img/speakers/wageesha-widuranga.png){.speaker-profile-photo fig-alt="Wageesha Widuranga"}](){target="_blank"}
+
+### [Wageesha Widuranga](){target="_blank"}
+
+PhD Student at <br>
+University of Padova
 :::
 
 :::
