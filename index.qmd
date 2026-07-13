@@ -72,7 +72,7 @@ Structured models connecting molecules, targets, cells, pathways and patients.
 | **Location** | University of Cambridge, Computer Laboratory |
 | **Format** | Two-day in-person workshop |
 | **Registration** | Opening soon |
-| **Speakers** | To be announced |
+| **Speakers** | See speakers section for the full list |
 
 :::
 
