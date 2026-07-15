@@ -74,7 +74,7 @@ University of Padova, Dept. of Biology
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/tania-bobbo.png){.speaker-profile-photo fig-alt="Tania Bobbo"}
+![](assets/img/speakers/tania-bobbo.jpg){.speaker-profile-photo fig-alt="Tania Bobbo"}
 
 ### Dr. Tania Bobbo
 
@@ -110,9 +110,9 @@ EMBL-EBI
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/lerry-melidis.png){.speaker-profile-photo fig-alt="Lerry Melidis"}
+[![](assets/img/speakers/lerry-melidis.jpg){.speaker-profile-photo fig-alt="Lerry Melidis"}](https://orcid.org/0000-0001-6853-2722){target="_blank"}
 
-### Dr. Lerry Melidis
+### [Dr. Lerry Melidis](https://orcid.org/0000-0001-6853-2722){target="_blank"}
 
 PostDoc at <br>
 University of Cambridge, CRUK Cambridge Institute
