@@ -199,7 +199,7 @@ University College London
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/salvo-romano.png){.speaker-profile-photo fig-alt="Salvo Romano"}
+![](assets/img/speakers/salvo-romano.jpeg){.speaker-profile-photo fig-alt="Salvo Romano"}
 
 ### Salvo Romano
 
