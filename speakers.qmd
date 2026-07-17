@@ -163,15 +163,6 @@ University of Padova
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/irwin-christofer.png){.speaker-profile-photo fig-alt="Christofer Irwin"}
-
-### Christofer Irwin
-
-PhD Student at <br>
-University of Cambridge
-:::
-
-::: {.speaker-profile}
 ![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Coretti"}
 
 ### Massimiliano Coretti
