@@ -110,11 +110,11 @@ EMBL-EBI
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/lerry-melidis.jpg){.speaker-profile-photo fig-alt="Lerry Melidis"}](https://orcid.org/0000-0001-6853-2722){target="_blank"}
+[![](assets/img/speakers/larry-melidis.jpg){.speaker-profile-photo fig-alt="Larry Melidis"}](https://orcid.org/0000-0001-6853-2722){target="_blank"}
 
-### [Dr. Lerry Melidis](https://orcid.org/0000-0001-6853-2722){target="_blank"}
+### [Dr. Larry Melidis](https://orcid.org/0000-0001-6853-2722){target="_blank"}
 
-PostDoc at <br>
+Research Associate at Balasubramanian Lab <br>
 University of Cambridge, CRUK Cambridge Institute
 :::
 
@@ -135,6 +135,17 @@ University of Cambridge, Biochemistry Department
 PostDoc at <br>
 University of Padova
 :::
+
+
+::: {.speaker-profile}
+![](assets/img/speakers/flavio-sartori.png){.speaker-profile-photo fig-alt="Flavio Sartori"}
+
+### Flavio Sartori
+
+PostDoc at <br>
+Roche
+:::
+
 
 :::
 
