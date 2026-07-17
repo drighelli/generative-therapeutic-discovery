@@ -124,7 +124,7 @@ University of Cambridge, CRUK Cambridge Institute
 ### [Dr. Bianca Pierattini](https://www.linkedin.com/in/biancapierattini){target="_blank"}
 
 PostDoc at <br>
-University of Cambridge, Biochemistry Department
+University of Cambridge
 :::
 
 ::: {.speaker-profile}
@@ -163,12 +163,12 @@ University of Padova
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/irwin-christofer.png){.speaker-profile-photo fig-alt="Irwin Christofer"}
+![](assets/img/speakers/irwin-christofer.png){.speaker-profile-photo fig-alt="Christofer Irwin"}
 
-### Irwin Christofer
+### Christofer Irwin
 
 PhD Student at <br>
-University of Cambridge, Dept. of Computer Science and Technology
+University of Cambridge
 :::
 
 ::: {.speaker-profile}
@@ -177,7 +177,7 @@ University of Cambridge, Dept. of Computer Science and Technology
 ### Massimiliano Coretti
 
 PhD Student at <br>
-University of Cambridge, Dept. of Computer Science and Technology
+University of Cambridge
 :::
 
 ::: {.speaker-profile}
@@ -213,7 +213,7 @@ University of Catania
 ### Andrea Rubbi
 
 PhD Student at <br>
-University of Cambridge, Dept. of Computer Science and Technology
+University of Cambridge
 :::
 
 ::: {.speaker-profile}
