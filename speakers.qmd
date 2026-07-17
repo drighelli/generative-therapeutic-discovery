@@ -217,7 +217,7 @@ University of Cambridge
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/wageesha-widuranga.png){.speaker-profile-photo fig-alt="Wageesha Widuranga"}
+![](assets/img/speakers/wageesha-widuranga.jpg){.speaker-profile-photo fig-alt="Wageesha Widuranga"}
 
 ### Wageesha Widuranga
 
