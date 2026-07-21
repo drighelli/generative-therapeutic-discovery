@@ -137,16 +137,6 @@ University of Padova
 :::
 
 
-::: {.speaker-profile}
-![](assets/img/speakers/flavio-sartori.png){.speaker-profile-photo fig-alt="Flavio Sartori"}
-
-### Flavio Sartori
-
-PostDoc at <br>
-Roche
-:::
-
-
 :::
 
 ##
@@ -199,13 +189,25 @@ University of Catania
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/andrea-rubbi.png){.speaker-profile-photo fig-alt="Andrea Rubbi"}
+![](assets/img/speakers/andrea-rubbi.jpeg){.speaker-profile-photo fig-alt="Andrea Rubbi"}
 
 ### Andrea Rubbi
 
 PhD Student at <br>
 University of Cambridge
 :::
+
+
+
+::: {.speaker-profile}
+![](assets/img/speakers/flavio-sartori.png){.speaker-profile-photo fig-alt="Flavio Sartori"}
+
+### Flavio Sartori
+
+PhD Intern at <br>
+Roche
+:::
+
 
 ::: {.speaker-profile}
 ![](assets/img/speakers/wageesha-widuranga.jpg){.speaker-profile-photo fig-alt="Wageesha Widuranga"}
