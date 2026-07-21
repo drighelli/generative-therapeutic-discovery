@@ -18,8 +18,6 @@ website:
         text: Programme
       - href: speakers.qmd
         text: Speakers
-      - href: call.qmd
-        text: Call
       - href: registration.qmd
         text: Registration
       - href: venue.qmd

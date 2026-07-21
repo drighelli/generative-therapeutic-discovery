@@ -2,37 +2,46 @@
 title: "Programme"
 ---
 
-::: {.container-narrow}
-
-The detailed programme will be announced closer to the workshop.
-
-## Day 1 — Tuesday, 29 September 2026
+## 29 September 2026
 
 | Time | Session |
 |---|---|
-| 09:30–10:00 | Registration and coffee |
-| 10:00–10:15 | Welcome and opening remarks |
-| 10:15–11:00 | Keynote lecture |
-| 11:00–11:30 | Coffee break |
-| 11:30–13:00 | Session 1 — Molecular generation and therapeutic design |
-| 13:00–14:00 | Lunch |
-| 14:00–15:30 | Session 2 — Targets, mechanisms and disease models |
-| 15:30–16:00 | Coffee break |
-| 16:00–17:30 | Contributed talks / posters |
-| 17:30–18:00 | Discussion |
+| 09:30–10:00 | Registration |
+| 10:00–10:10 | Opening remarks |
+| 10:10–10:40 | **Dr. Alessandro Bonetti** <br> Therapeutic discovery and industry perspectives |
+| 10:40–11:10 | **Dr. Mikhail Kabeshov** <br> Therapeutic discovery and industry perspectives |
+| 11:10–11:40 | Coffee break |
+| 11:40–12:10 | **Fabio Bove + Marco Ferrarini** <br> AI-driven therapeutic discovery |
+| 12:10–12:40 | **Dr. Gabriele Corso** <br> Generative models and biological design |
+| 12:40–13:10 | **Dr. Esther Wershof** <br> Machine learning for cell-state biology |
+| 13:10–14:10 | Lunch |
+| 14:10–14:40 | **Dr. Fabian Frohlich** <br> Disease modelling and cellular systems |
+| 14:40–15:10 | **Prof. Michail Mamalakis** <br> Multimodal learning for biomedical discovery |
+| 15:10–15:40 | **Dr. Tiansi Dong** <br> Foundation models and representation learning |
+| 15:40–16:10 | Coffee break |
+| 16:10–16:40 | **Dr. Larry Melidis** <br> Computational biology and therapeutic discovery |
+| 16:40–17:10 | **Dr. Anurag Limdi** <br> Machine learning for molecular and biomedical data |
+| 17:10–17:40 | **Prof. Tom McClelland** <br> AI, reasoning and biological systems |
+| 17:40–18:00 | General discussion / wrap-up |
 
-## Day 2 — Wednesday, 30 September 2026
+## 30 September 2026
 
 | Time | Session |
 |---|---|
-| 09:30–10:00 | Coffee |
-| 10:00–10:45 | Keynote lecture |
-| 10:45–11:15 | Coffee break |
-| 11:15–12:45 | Session 3 — Cell-state responses and perturbation models |
-| 12:45–14:00 | Lunch |
-| 14:00–15:30 | Session 4 — Multimodal and foundation models for biology |
-| 15:30–16:00 | Coffee break |
-| 16:00–17:00 | Panel discussion |
-| 17:00–17:15 | Closing remarks |
-
-:::
+| 09:30–09:50 | **Dr. Johann Hawe** <br> Machine learning for biomedical data |
+| 09:50–10:10 | **Dr. Ilaria Billato** <br> Single-cell and multimodal data analysis |
+| 10:10–10:30 | **Dr. Bianca Pierattini** <br> Cell-state modelling and biological regulation |
+| 10:30–11:00 | Coffee break |
+| 11:00–11:20 | **Dr. Tania Bobbo** <br> Computational biology and disease mechanisms |
+| 11:20–11:40 | **Dr. Davide Rigoni** <br> Omics data analysis and biological modelling |
+| 11:40–12:00 | **Flavio Sartori** <br> Machine learning for therapeutic discovery |
+| 12:00–13:00 | Lunch |
+| 13:00–13:20 | **Massimiliano Coretti** <br> Emerging research talk |
+| 13:20–13:40 | **Andrea Giuseppe di Francesco** <br> Emerging research talk |
+| 13:40–14:00 | **David Miller** <br> Emerging research talk |
+| 14:00–14:20 | **Salvo Romano** <br> Emerging research talk |
+| 14:20–14:50 | Coffee break |
+| 14:50–15:10 | **Andrea Rubbi** <br> Emerging research talk |
+| 15:10–15:30 | **Wageesha Widuranga** <br> Emerging research talk |
+| 15:30–16:00 | Discussion: future directions in generative models for therapeutic discovery |
+| 16:00–16:15 | Closing remarks |
