@@ -13,6 +13,17 @@ Director at <br>
 AstraZeneca
 :::
 
+
+::: {.speaker-profile}
+![](assets/img/speakers/fabio-bove.png){.speaker-profile-photo fig-alt="Fabio Bove"}
+
+### Fabio Bove
+
+CEO and Co-founder at <br>
+Neoralab
+:::
+
+
 ::: {.speaker-profile}
 [![](assets/img/speakers/gab-corso.jpeg){.speaker-profile-photo fig-alt="Dr. Gabriele Corso"}](https://gcorso.github.io/){target="_blank"}
 
@@ -21,6 +32,17 @@ AstraZeneca
 Co-founder and CEO at <br>
 Boltz
 :::
+
+
+::: {.speaker-profile}
+![](assets/img/speakers/marco-ferrarini.png){.speaker-profile-photo fig-alt="Marco Ferrarini"}
+
+### Marco Ferrarini
+
+Chief Scientific Officer at <br>
+Neoralab
+:::
+
 
 ::: {.speaker-profile}
 [![](assets/img/speakers/fabfro.jpeg){.speaker-profile-photo fig-alt="Dr. Fabian Frohlich"}](https://www.crick.ac.uk/research/labs/fabian-frohlich){target="_blank"}
@@ -48,6 +70,17 @@ AstraZeneca
 Assistant Research Professor at <br>
 CRUK Cambridge Institute
 :::
+
+
+::: {.speaker-profile}
+[![](assets/img/speakers/tom-mcclelland.jpg){.speaker-profile-photo fig-alt="Prof. Tom McClelland"}](https://www.hps.cam.ac.uk/people/mcclelland){target="_blank"}
+
+### [Prof. Tom McClelland](https://www.hps.cam.ac.uk/people/mcclelland){target="_blank"}
+
+Teaching Associate at <br>
+University of Cambridge
+:::
+
 
 ::: {.speaker-profile}
 [![](assets/img/speakers/est-wer.jpg){.speaker-profile-photo fig-alt="Dr. Esther Wershof"}](https://www.linkedin.com/in/esther-wershof-585b35220/){target="_blank"}
@@ -130,7 +163,7 @@ University of Cambridge
 ::: {.speaker-profile}
 ![](assets/img/speakers/davide-rigoni.jpeg){.speaker-profile-photo fig-alt="Davide Rigoni"}
 
-### Davide Rigoni
+### Dr. Davide Rigoni
 
 PostDoc at <br>
 University of Padova
@@ -142,15 +175,6 @@ University of Padova
 ##
 
 ::: {.speaker-gallery}
-
-::: {.speaker-profile}
-![](assets/img/speakers/fabio-bove.png){.speaker-profile-photo fig-alt="Fabio Bove"}
-
-### Fabio Bove
-
-PhD Student at <br>
-University of Padova
-:::
 
 ::: {.speaker-profile}
 ![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Coretti"}
