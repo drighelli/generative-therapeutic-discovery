@@ -204,9 +204,9 @@ University College London
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/salvo-romano.jpeg){.speaker-profile-photo fig-alt="Salvo Romano"}
+![](assets/img/speakers/salvo-romano.jpeg){.speaker-profile-photo fig-alt="Salvatore Romano"}
 
-### Salvo Romano
+### Salvatore Romano
 
 PhD Student at <br>
 University of Catania

@@ -2,6 +2,12 @@
 title: "Programme"
 ---
 
+All talk slots include time for discussion.
+
+- **Standard talks:** 25 min presentation + 5 min Q&A  
+- **Short talks:** 15 min presentation + 5 min Q&A  
+- **Shared talks:** 20 min combined presentation + 10 min Q&A  
+
 ## 29 September 2026
 
 | Time | Session |
@@ -39,7 +45,7 @@ title: "Programme"
 | 13:00–13:20 | **Massimiliano Coretti** <br> Emerging research talk |
 | 13:20–13:40 | **Andrea Giuseppe di Francesco** <br> Emerging research talk |
 | 13:40–14:00 | **David Miller** <br> Emerging research talk |
-| 14:00–14:20 | **Salvo Romano** <br> Emerging research talk |
+| 14:00–14:20 | **Salvatore Romano** <br> Emerging research talk |
 | 14:20–14:50 | Coffee break |
 | 14:50–15:10 | **Andrea Rubbi** <br> Emerging research talk |
 | 15:10–15:30 | **Wageesha Widuranga** <br> Emerging research talk |
