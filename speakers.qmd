@@ -177,9 +177,9 @@ University of Padova
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
-![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Coretti"}
+![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Caretti"}
 
-### Massimiliano Coretti
+### Massimiliano Caretti
 
 PhD Student at <br>
 University of Cambridge
