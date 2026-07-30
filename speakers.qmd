@@ -63,21 +63,21 @@ AstraZeneca
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/mikemamalakis.png){.speaker-profile-photo fig-alt="Prof. Michail Mamalakis"}](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
+[![](assets/img/speakers/mikemamalakis.png){.speaker-profile-photo fig-alt="Dr. Michail Mamalakis"}](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
 
-### [Prof. Michail Mamalakis](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
+### [Dr. Michail Mamalakis](https://www.cst.cam.ac.uk/people/mm2703){target="_blank"}
 
 Assistant Research Professor at <br>
 CRUK Cambridge Institute
 :::
 
-
 ::: {.speaker-profile}
-[![](assets/img/speakers/tom-mcclelland.jpg){.speaker-profile-photo fig-alt="Prof. Tom McClelland"}](https://www.hps.cam.ac.uk/people/mcclelland){target="_blank"}
+[![](assets/img/speakers/tom-mcclelland.jpg){.speaker-profile-photo fig-alt="Tom McClelland"}](https://tommcclelland.org/){target="_blank"}
 
-### [Prof. Tom McClelland](https://www.hps.cam.ac.uk/people/mcclelland){target="_blank"}
+### [Tom McClelland](https://tommcclelland.org/){target="_blank"}
 
-Teaching Associate at <br>
+Lecturer at <br>
+Department of History and Philosophy of Science,<br>
 University of Cambridge
 :::
 
@@ -107,12 +107,12 @@ University of Padova, Dept. of Biology
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/tania-bobbo.jpg){.speaker-profile-photo fig-alt="Tania Bobbo"}
+[![](assets/img/speakers/tania-bobbo.jpg){.speaker-profile-photo fig-alt="Dr. Tania Bobbo"}](https://www.linkedin.com/in/tania-bobbo-b9455042/){target="_blank"}
 
-### Dr. Tania Bobbo
+### [Dr. Tania Bobbo](https://www.linkedin.com/in/tania-bobbo-b9455042/){target="_blank"}
 
-CNR Researcher at <br>
-CNR IBBA Milano
+Researcher at <br>
+National Research Council – CNR, Italy
 :::
 
 ::: {.speaker-profile}
@@ -177,21 +177,23 @@ University of Padova
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
-![](assets/img/speakers/massimiliano-coretti.png){.speaker-profile-photo fig-alt="Massimiliano Caretti"}
+![](assets/img/speakers/massimiliano-caretti.png){.speaker-profile-photo fig-alt="Massimiliano Caretti"}
 
 ### Massimiliano Caretti
 
 PhD Student at <br>
-University of Cambridge
+DIAG, Sapienza University of Rome <br>
+and CNR, Italy
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/andrea-di-francesco.jpeg){.speaker-profile-photo fig-alt="Andrea Giuseppe di Francesco"}](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
+[![](assets/img/speakers/andrea-di-francesco.jpeg){.speaker-profile-photo fig-alt="Andrea G. Di Francesco"}](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
 
-### [Andrea Giuseppe di Francesco](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
+### [Andrea G. Di Francesco](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
 
-PhD Student at <br>
-Sapienza University of Rome
+PhD Student in Data Science at <br>
+DIAG, Sapienza University of Rome <br>
+and HPC Lab, ISTI-CNR
 :::
 
 ::: {.speaker-profile}
@@ -222,14 +224,15 @@ University of Cambridge
 :::
 
 
-
 ::: {.speaker-profile}
 ![](assets/img/speakers/flavio-sartori.png){.speaker-profile-photo fig-alt="Flavio Sartori"}
 
 ### Flavio Sartori
 
-PhD Intern at <br>
-Roche
+PhD Candidate at <br>
+University of Turin <br>
+and PhD Intern at <br>
+Hoffmann-La Roche
 :::
 
 

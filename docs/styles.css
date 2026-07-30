@@ -347,3 +347,42 @@ footer.footer {
     display: none !important;
     content: none !important;
 }
+
+/* Programme tables: identical column alignment across days */
+
+.programme-table {
+    width: 100%;
+}
+
+.programme-table table {
+    width: 100% !important;
+    table-layout: fixed !important;
+}
+
+.programme-table th:first-child,
+.programme-table td:first-child {
+    width: 220px !important;
+    min-width: 220px !important;
+    max-width: 220px !important;
+    white-space: nowrap;
+}
+
+.programme-table th:nth-child(2),
+.programme-table td:nth-child(2) {
+    width: auto !important;
+}
+
+/* Programme talk-title links */
+
+.programme-table a,
+.programme-table a:visited {
+    color: #6ea8fe !important;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.programme-table a:hover {
+    color: #9ec5fe !important;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+}

@@ -14,10 +14,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: programme.qmd
-        text: Programme
       - href: speakers.qmd
         text: Speakers
+      - href: programme.qmd
+        text: Programme
+      - text: "Abstracts"
+        href: abstracts.qmd
       - href: registration.qmd
         text: Registration
       - href: venue.qmd
