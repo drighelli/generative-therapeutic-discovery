@@ -236,7 +236,8 @@ I will present PT-RAG, a differentiable retrieval framework for predicting singl
 The broader message is that extending RAG beyond language is not simply a matter of attaching a vector database to a new model. It requires us to reconsider what the retrievable units should be, how information should be represented, and whether and how relevance itself must be learned from the downstream objective. I will discuss how cellular perturbation prediction exposes these challenges and outline opportunities for neural retrieval in scientific domains, including context-conditioned retrieval and possible directions in richer multimodal representations
 
 **Speaker bio**  
-TBD
+Andrea Giuseppe Di Francesco is a third-year Ph.D. student in Data Science at the Dipartimento di Ingegneria Informatica, Automatica e Gestionale (DIAG), Sapienza University of Rome.
+His research focuses on the theoretical foundations of Graph Neural Networks, with emphasis on expressivity, inductive biases, and their integration with GraphRAG systems. He actively collaborates with the Institute of Information Science and Technologies (ISTI-CNR) in Pisa.
 :::
 
 ::: {#miller}
