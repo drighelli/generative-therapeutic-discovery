@@ -2,21 +2,14 @@
 title: "Talk abstracts"
 ---
 
-::: {#top}
 This page collects talk titles, abstracts and short speaker biographies for GMTD 2026.
-:::
 
-[← Back to programme](programme.qmd){.btn .btn-outline-primary .me-2}
-  [Jump to 30 September ↓](#day-30){.btn .btn-primary}
+## 29 September 2026
 
-## 29 September 2026 {#day-29}
-
-::: {.abstract-grid}
-
-::: {.abstract-card #bonetti}
+::: {#bonetti}
 ### Dr. Alessandro Bonetti
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -25,10 +18,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #kabeshov}
+::: {#kabeshov}
 ### Dr. Mikhail Kabeshov
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -37,10 +30,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #bove-ferrarini}
+::: {#bove-ferrarini}
 ### Fabio Bove and Marco Ferrarini
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -49,10 +42,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #corso}
+::: {#corso}
 ### Dr. Gabriele Corso
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -61,10 +54,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #wershof}
+::: {#wershof}
 ### Dr. Esther Wershof
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -73,10 +66,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #frohlich}
+::: {#frohlich}
 ### Dr. Fabian Frohlich
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -85,10 +78,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #mamalakis}
+::: {#mamalakis}
 ### Dr. Michail Mamalakis
 
-#### From Genes to Brain Imaging: Interpretable and Adaptable AI for Understanding Brain Disease
+**From Genes to Brain Imaging: Interpretable and Adaptable AI for Understanding Brain Disease**
 
 **Abstract**  
 Understanding brain disease requires integrating molecular changes with macroscopic alterations observed through magnetic resonance imaging (MRI). I present complementary artificial intelligence frameworks for analysing brain MRI and single-cell RNA sequencing data. AlcaMoena, a three-dimensional MRI foundation model pretrained without manual labels on more than 425,000 volumes and derived maps, combines volumetric encoding, latent diffusion, and Graph-Blueprint Pruning to expand across clinical domains while limiting the loss of previously acquired capabilities. Its representations support image synthesis, disease classification, survival modelling, and postoperative prediction. At the molecular level, I integrate graph-based gene embeddings with transformer-based language models to capture temporal gene dynamics and introduce a drift score that measures changes in gene relationships across biological states. Applied to ependymoma, the framework recovered 70 of 89 known disease-associated genes—a 30% improvement over the best individual method—and identified candidate biomarkers with disease-specific progression patterns. Together, these approaches provide scalable and interpretable tools for connecting cellular dynamics with imaging phenotypes and supporting biomarker discovery and clinical prediction
@@ -97,10 +90,10 @@ Understanding brain disease requires integrating molecular changes with macrosco
 Michail Mamalakis is an Assistant Research Professor at the Cancer Research UK Cambridge Institute, a Postdoctoral Transition Fellow at the CRUK Children’s Brain Tumour Centre of Excellence, and an Affiliated Lecturer at the University of Cambridge. His research develops explainable and trustworthy multimodal AI for biomedical discovery, integrating medical imaging, histology, and molecular data. His current work focuses on foundation models and cross-scale computational methods for paediatric and adult brain tumours. He holds a PhD in Computer Science from the University of Sheffield
 :::
 
-::: {.abstract-card #dong}
+::: {#dong}
 ### Dr. Tiansi Dong
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -109,10 +102,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #melidis}
+::: {#melidis}
 ### Dr. Larry Melidis
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -121,10 +114,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #limdi}
+::: {#limdi}
 ### Dr. Anurag Limdi
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -133,10 +126,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #mcclelland}
+::: {#mcclelland}
 ### Prof. Tom McClelland
 
-#### The Problem of Artificial Consciousness
+**The Problem of Artificial Consciousness**
 
 **Abstract**  
 The notion of artificial consciousness is now gaining significant traction with developers, users and researchers. How seriously should we take this idea? When should we conclude that an AI is conscious? And what are the ethical ramifications of creating conscious AI? I argue that it is very difficult to determine the prospects of consciousness scientifically and suggest how to navigate this uncertainty responsibly.
@@ -145,18 +138,12 @@ The notion of artificial consciousness is now gaining significant traction with 
 Tom McClelland is a Lecturer in the Department of History and Philosophy of Science at the University of Cambridge and an Associate Fellow of the Leverhulme Centre for the Future of Intelligence. His work in AI explores whether AI has the potential to be conscious and/or creative.
 :::
 
-:::
+## 30 September 2026
 
-## 30 September 2026 {#day-30}
-
-[↑ Back to 29 September](#day-29){.btn .btn-outline-primary}
-
-::: {.abstract-grid}
-
-::: {.abstract-card #hawe}
+::: {#hawe}
 ### Dr. Johann Hawe
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -165,10 +152,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #billato}
+::: {#billato}
 ### Dr. Ilaria Billato
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -177,10 +164,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #pierattini}
+::: {#pierattini}
 ### Dr. Bianca Pierattini
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -189,10 +176,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #bobbo}
+::: {#bobbo}
 ### Dr. Tania Bobbo
 
-#### Machine Learning for Probiotics Discovery: The PROB-AI Project
+**Machine Learning for Probiotics Discovery: The PROB-AI Project**
 
 **Abstract**  
 Probiotics are microorganisms that confer health benefits to humans. Most known probiotics belong to the *Lactobacillus*, *Bifidobacterium*, *Bacillus*, *Streptococcus*, and *Enterococcus* genera, although new probiotic taxa continue to emerge. To be considered probiotic, bacterial strains must be safe for human use, survive passage through the gastrointestinal tract, and colonize the gut. These properties are typically assessed through extensive in vitro and in vivo experiments, making probiotic discovery slow and costly. The PROB-AI project aims to accelerate this process by developing machine-learning methods to identify probiotic bacteria directly from genomic data. ML models trained on confirmed probiotic genomes have been used to predict novel candidate strains, providing insights into the genomic determinants of probiotic traits and supporting the discovery of new microorganisms for biomedical and pharmaceutical applications. This ML-based approach represents an innovative and still underexplored strategy with significant potential for microbiology, industry, and human health. We analysed a dataset of approximately 1,000 bacterial genomes, including around 30 confirmed probiotic strains from public repositories. Genomic features were extracted from NCBI genome sequences using the GRRAP in-house developed tool, together with k-mers. Different ML models were fine-tuned using repeated k-fold cross-validation. The best-performing models were retrained on the training set and evaluated on a held-out subset. Finally, the best models were applied to an independent dataset of approximately 1,500 unlabelled bacterial genomes from NCBI to identify novel candidate probiotic strains to be experimentally validated in vitro.
@@ -200,10 +187,10 @@ Probiotics are microorganisms that confer health benefits to humans. Most known 
 **Speaker bio**  
 Tania Bobbo is a researcher at the National Research Council, CNR, Italy, with expertise in applying biostatistics, bioinformatics, and machine learning to the analysis of plant, animal, and human phenotypic, genetic, and genomic data. Her current research focuses on the development and application of AI algorithms for the analysis of bacterial genome sequences to identify novel probiotic strains.
 :::
-::: {.abstract-card #rigoni}
+::: {#rigoni}
 ### Dr. Davide Rigoni
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -212,10 +199,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #sartori}
+::: {#sartori}
 ### Flavio Sartori
 
-#### Scoring Tissue Health from Microscopy to Enable Causal Analysis in Dry AMD
+**Scoring Tissue Health from Microscopy to Enable Causal Analysis in Dry AMD**
 
 **Abstract**  
 Age-related macular degeneration (AMD) is a common cause of central vision loss, and its dry form still has no treatment for advanced stages. A key difficulty is distinguishing a genuine drug effect on the retinal pigment epithelium from technical noise. We address this with a health score derived directly from microscopy images. After cleaning and normalising the data, each tissue region is scored according to its deviation from the healthy control state. This score then becomes one of the per-patch variables used in a causal model, alongside the applied compound and other local measurements, helping disentangle how much of the observed change is actually caused by each compound in dry AMD.
@@ -224,10 +211,10 @@ Age-related macular degeneration (AMD) is a common cause of central vision loss,
 Flavio Sartori is a PhD candidate at the Doctoral School in Complex Systems for Quantitative Biomedicine at the University of Turin, Italy, with a background in physics. He is currently a PhD Intern at Hoffmann-La Roche in Basel, where he works on image analysis for organoid experiments. His research focuses on applying d
 :::
 
-::: {.abstract-card #baldan}
+::: {#baldan}
 ### Matteo Baldan
 
-#### Learning to Simulate: Neural Operators and the Generation of Physical Dynamics with Applications in Cardiac Electrophysiology
+**Learning to Simulate: Neural Operators and the Generation of Physical Dynamics with Applications in Cardiac Electrophysiology**
 
 **Abstract**  
 Many physical and biological processes can be represented as dynamical systems whose internal state evolves in response to initial conditions, external inputs, and system parameters. Mechanistic simulators approximate this evolution by combining mathematical models with numerical discretisation. Although these approaches remain essential for scientific understanding, their computational cost can limit parameter exploration, uncertainty quantification and the simulation of complex, subject-specific systems. Neural operators provide an emerging alternative: instead of learning predictions at a fixed number of coordinates, they learn mappings between functions and can therefore approximate the evolution or solution operator of an entire family of dynamical systems.
@@ -242,10 +229,10 @@ Examples from biological modelling illustrate how operator learning can represen
 Coming soon
 :::
 
-::: {.abstract-card #caretti}
+::: {#caretti}
 ### Massimiliano Caretti
 
-#### Title to be announced
+**Title to be announced**
 
 **Abstract**  
 Abstract coming soon.
@@ -254,10 +241,10 @@ Abstract coming soon.
 Massimiliano Caretti’s research focuses on artificial intelligence for molecular diagnostics and computational biology. He develops interpretable machine-learning models for vibrational spectroscopy, including FTIR and micro-Raman data, as well as single-cell and spatial omics methods to support cancer diagnosis, tumour heterogeneity characterisation and precision oncology.
 :::
 
-::: {.abstract-card #di-francesco}
+::: {#di-francesco}
 ### Andrea G. Di Francesco
 
-#### RAG Beyond NLP: Learning Relevant Context for Cellular Prediction
+**RAG Beyond NLP: Learning Relevant Context for Cellular Prediction**
 
 **Abstract**  
 Retrieval-augmented generation (RAG) is usually presented as a paradigm for language models: retrieve relevant documents using a fixed similarity function, then condition generation on them. Outside NLP, however, relevance may be neither obvious nor context-independent.
@@ -271,10 +258,10 @@ Andrea Giuseppe Di Francesco is a third-year Ph.D. student in Data Science at th
 His research focuses on the theoretical foundations of Graph Neural Networks, with emphasis on expressivity, inductive biases, and their integration with GraphRAG systems. He actively collaborates with the Institute of Information Science and Technologies (ISTI-CNR) in Pisa.
 :::
 
-::: {.abstract-card #miller}
+::: {#miller}
 ### David Miller
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -283,10 +270,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #romano}
+::: {#romano}
 ### Salvo Romano
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -295,10 +282,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #rubbi}
+::: {#rubbi}
 ### Andrea Rubbi
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -307,10 +294,10 @@ Abstract TBC.
 Bio TBC.
 :::
 
-::: {.abstract-card #widuranga}
+::: {#widuranga}
 ### Wageesha Widuranga
 
-#### Talk title TBC
+**Talk title TBC**
 
 **Abstract**  
 Abstract TBC.
@@ -318,8 +305,3 @@ Abstract TBC.
 **Speaker bio**  
 Bio TBC.
 :::
-
-:::
-
-[↑ Back to top](#top){.btn .btn-primary .me-2}
-  [↑ Back to 30 September](#day-30){.btn .btn-outline-primary}
