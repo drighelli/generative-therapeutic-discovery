@@ -177,6 +177,15 @@ University of Padova
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
+![](assets/img/speakers/matteo-baldan.jpeg){.speaker-profile-photo fig-alt="Matteo Baldan"}
+
+### Matteo Baldan
+
+PhD Student at <br>
+Department of Information Engineering, University of Padova
+:::
+
+::: {.speaker-profile}
 ![](assets/img/speakers/massimiliano-caretti.png){.speaker-profile-photo fig-alt="Massimiliano Caretti"}
 
 ### Massimiliano Caretti

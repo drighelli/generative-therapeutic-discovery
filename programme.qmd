@@ -48,14 +48,15 @@ All talk slots include time for discussion.
 | 11:20–11:40 | **Dr. Davide Rigoni** <br> Omics data analysis and biological modelling |
 | 11:40–12:00 | **Flavio Sartori** <br> [Scoring Tissue Health from Microscopy to Enable Causal Analysis in Dry AMD](abstracts.qmd#sartori) |
 | 12:00–13:00 | Lunch |
-| 13:00–13:20 | **Massimiliano Caretti** <br> [Title to be announced](abstracts.qmd#caretti) |
-| 13:20–13:40 | **Andrea G. Di Francesco** <br> [RAG Beyond NLP: Learning Relevant Context for Cellular Prediction](abstracts.qmd#di-francesco) |
-| 13:40–14:00 | **David Miller** <br> Emerging research talk |
-| 14:00–14:20 | **Salvatore Romano** <br> Emerging research talk |
-| 14:20–14:50 | Coffee break |
-| 14:50–15:10 | **Andrea Rubbi** <br> Emerging research talk |
-| 15:10–15:30 | **Wageesha Widuranga** <br> Emerging research talk |
-| 15:30–16:00 | Discussion: future directions in generative models for therapeutic discovery |
-| 16:00–16:15 | Closing remarks |
+| 13:00–13:20 | **Matteo Baldan** <br> [Learning to Simulate: Neural Operators and the Generation of Physical Dynamics with Applications in Cardiac Electrophysiology](abstracts.qmd#baldan) |
+| 13:20–13:40 | **Massimiliano Caretti** <br> [Title to be announced](abstracts.qmd#caretti) |
+| 13:40–14:00 | **Andrea G. Di Francesco** <br> [RAG Beyond NLP: Learning Relevant Context for Cellular Prediction](abstracts.qmd#di-francesco) |
+| 14:00–14:20 | **David Miller** <br> Emerging research talk |
+| 14:20–14:40 | **Salvatore Romano** <br> Emerging research talk |
+| 14:40–15:10 | Coffee break |
+| 15:10–15:30 | **Andrea Rubbi** <br> Emerging research talk |
+| 15:30–15:50 | **Wageesha Widuranga** <br> Emerging research talk |
+| 15:50–16:20 | Discussion: future directions in generative models for therapeutic discovery |
+| 16:20–16:35 | Closing remarks |
 
 ::::
