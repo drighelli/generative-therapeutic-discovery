@@ -45,12 +45,15 @@ Neoralab
 
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/fabfro.jpeg){.speaker-profile-photo fig-alt="Dr. Fabian Frohlich"}](https://www.crick.ac.uk/research/labs/fabian-frohlich){target="_blank"}
 
-### [Dr. Fabian Frohlich](https://www.crick.ac.uk/research/labs/fabian-frohlich){target="_blank"}
+[![](assets/img/speakers/fabfro.jpeg){.speaker-profile-photo fig-alt="Dr. Fabian Frohlich"}](https://www.frohlichlab.com/){target="_blank"}
+
+### [Dr. Fabian Frohlich](https://www.frohlichlab.com/){target="_blank"}
 
 Group Leader at <br>
+
 The Francis Crick Institute
+
 :::
 
 ::: {.speaker-profile}
@@ -134,124 +137,173 @@ Illumina - Artificial Intelligence Lab
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/anu-limdi.jpg){.speaker-profile-photo fig-alt="Dr. Anurag Limdi"}
 
-### Dr. Anurag Limdi
+[![](assets/img/speakers/anu-limdi.jpg){.speaker-profile-photo fig-alt="Dr. Anurag Limdi"}](https://github.com/anuraglimdi){target="_blank"}
 
-ML Scientist at <br>
-EMBL-EBI
+### [Dr. Anurag Limdi](https://github.com/anuraglimdi){target="_blank"}
+
+Machine Learning Scientist <br>
+
+Computational Biology and Generative Models
+
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/larry-melidis.jpg){.speaker-profile-photo fig-alt="Larry Melidis"}](https://orcid.org/0000-0001-6853-2722){target="_blank"}
+
+[![](assets/img/speakers/larry-melidis.jpg){.speaker-profile-photo fig-alt="Dr. Larry Melidis"}](https://orcid.org/0000-0001-6853-2722){target="_blank"}
 
 ### [Dr. Larry Melidis](https://orcid.org/0000-0001-6853-2722){target="_blank"}
 
-Research Associate at Balasubramanian Lab <br>
-University of Cambridge, CRUK Cambridge Institute
+Lead Bioinformatician at <br>
+
+Balasubramanian Group, University of Cambridge
+
 :::
 
 ::: {.speaker-profile}
-[![](assets/img/speakers/bianca-pierattini.jpg){.speaker-profile-photo fig-alt="Bianca Pierattini"}](https://www.linkedin.com/in/biancapierattini){target="_blank"}
+
+[![](assets/img/speakers/bianca-pierattini.jpg){.speaker-profile-photo fig-alt="Dr. Bianca Pierattini"}](https://www.linkedin.com/in/biancapierattini){target="_blank"}
 
 ### [Dr. Bianca Pierattini](https://www.linkedin.com/in/biancapierattini){target="_blank"}
 
-PostDoc at <br>
-University of Cambridge
+Herchel Smith Research Fellow at <br>
+
+Department of Biochemistry, University of Cambridge
+
 :::
 
 ::: {.speaker-profile}
-![](assets/img/speakers/davide-rigoni.jpeg){.speaker-profile-photo fig-alt="Davide Rigoni"}
 
-### Dr. Davide Rigoni
+[![](assets/img/speakers/davide-rigoni.jpeg){.speaker-profile-photo fig-alt="Dr. Davide Rigoni"}](https://www.drigoni.it/){target="_blank"}
 
-PostDoc at <br>
-University of Padova
+### [Dr. Davide Rigoni](https://www.drigoni.it/){target="_blank"}
+
+Postdoctoral Researcher in Artificial Intelligence at <br>
+
+Department of Mathematics, University of Padova
+
 :::
 
 
 :::
 
 ##
-
 ::: {.speaker-gallery}
 
 ::: {.speaker-profile}
+
 ![](assets/img/speakers/matteo-baldan.jpeg){.speaker-profile-photo fig-alt="Matteo Baldan"}
 
 ### Matteo Baldan
 
 PhD Student at <br>
+
 Department of Information Engineering, University of Padova
+
 :::
 
 ::: {.speaker-profile}
+
 ![](assets/img/speakers/massimiliano-caretti.png){.speaker-profile-photo fig-alt="Massimiliano Caretti"}
 
 ### Massimiliano Caretti
 
 PhD Student at <br>
+
 DIAG, Sapienza University of Rome <br>
+
 and CNR, Italy
+
 :::
 
 ::: {.speaker-profile}
+
 [![](assets/img/speakers/andrea-di-francesco.jpeg){.speaker-profile-photo fig-alt="Andrea G. Di Francesco"}](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
 
 ### [Andrea G. Di Francesco](https://sites.google.com/uniroma1.it/andreagiuseppedifrancesco/home-page){target="_blank"}
 
 PhD Student in Data Science at <br>
+
 DIAG, Sapienza University of Rome <br>
+
 and HPC Lab, ISTI-CNR
+
 :::
 
 ::: {.speaker-profile}
+
 ![](assets/img/speakers/dav-mill.jpeg){.speaker-profile-photo fig-alt="David Miller"}
 
 ### David Miller
 
 PhD Candidate at <br>
+
 University College London
+
 :::
 
 ::: {.speaker-profile}
+
+![](assets/img/speakers/valerio-reffo.jpg){.speaker-profile-photo fig-alt="Valerio Reffo"}
+
+### Valerio Reffo
+
+Incoming PhD Student in Statistics at <br>
+
+Department of Statistical Sciences, University of Padova
+
+:::
+
+::: {.speaker-profile}
+
 ![](assets/img/speakers/salvo-romano.jpeg){.speaker-profile-photo fig-alt="Salvatore Romano"}
 
 ### Salvatore Romano
 
 PhD Student at <br>
+
 University of Catania
+
 :::
 
 ::: {.speaker-profile}
+
 ![](assets/img/speakers/andrea-rubbi.jpeg){.speaker-profile-photo fig-alt="Andrea Rubbi"}
 
 ### Andrea Rubbi
 
 PhD Student at <br>
+
 University of Cambridge
+
 :::
 
-
 ::: {.speaker-profile}
+
 ![](assets/img/speakers/flavio-sartori.png){.speaker-profile-photo fig-alt="Flavio Sartori"}
 
 ### Flavio Sartori
 
 PhD Candidate at <br>
+
 University of Turin <br>
+
 and PhD Intern at <br>
+
 Hoffmann-La Roche
+
 :::
 
-
 ::: {.speaker-profile}
+
 ![](assets/img/speakers/wageesha-widuranga.jpg){.speaker-profile-photo fig-alt="Wageesha Widuranga"}
 
 ### Wageesha Widuranga
 
 PhD Student at <br>
+
 University of Padova
+
 :::
 
 :::

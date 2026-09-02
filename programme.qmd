@@ -21,14 +21,14 @@ All talk slots include time for discussion.
 | 11:10–11:40 | Coffee break |
 | 11:40–12:10 | **Fabio Bove + Marco Ferrarini** <br> AI-driven therapeutic discovery |
 | 12:10–12:40 | **Dr. Gabriele Corso** <br> Generative models and biological design |
-| 12:40–13:10 | **Dr. Esther Wershof** <br> Machine learning for cell-state biology |
+| 12:40–13:10 | **Dr. Esther Wershof** <br> [PRiMeFlow: Winning the ARC Virtual Cell Challenge with Generative Modeling](abstracts.qmd#wershof) |
 | 13:10–14:10 | Lunch |
-| 14:10–14:40 | **Dr. Fabian Frohlich** <br> Disease modelling and cellular systems |
+| 14:10–14:40 | **Dr. Fabian Frohlich** <br> [Deep Mechanistic Models Reveal Pathway-Extrinsic Drivers of Mammary MAPK Signalling Heterogeneity](abstracts.qmd#frohlich) |
 | 14:40–15:10 | **Dr. Michail Mamalakis** <br> [From Genes to Brain Imaging: Interpretable and Adaptable AI for Understanding Brain Disease](abstracts.qmd#mamalakis) |
 | 15:10–15:40 | **Dr. Tiansi Dong** <br> Foundation models and representation learning |
 | 15:40–16:10 | Coffee break |
-| 16:10–16:40 | **Dr. Larry Melidis** <br> Computational biology and therapeutic discovery |
-| 16:40–17:10 | **Dr. Anurag Limdi** <br> Machine learning for molecular and biomedical data |
+| 16:10–16:40 | **Dr. Larry Melidis** <br> [Predicting Nucleic Acid Structural Diversity Across the Tree of Life](abstracts.qmd#melidis) |
+| 16:40–17:10 | **Dr. Anurag Limdi** <br> [Uncertainty Quantification in Multi-Omic Generative Models Identifies Context-Dependent Biology and Technical Noise](abstracts.qmd#limdi) |
 | 17:10–17:40 | **Tom McClelland** <br> [The Problem of Artificial Consciousness](abstracts.qmd#mcclelland) |
 | 17:40–18:00 | General discussion / wrap-up |
 
@@ -40,23 +40,24 @@ All talk slots include time for discussion.
 
 | Time | Session |
 |---|---|
-| 09:30–09:50 | **Dr. Johann Hawe** <br> Machine learning for biomedical data |
-| 09:50–10:10 | **Dr. Ilaria Billato** <br> Single-cell and multimodal data analysis |
-| 10:10–10:30 | **Dr. Bianca Pierattini** <br> Cell-state modelling and biological regulation |
+| 09:30–09:50 | **Dr. Johann Hawe** <br> [AI-Powered Interpretation of Human Genetic Variation](abstracts.qmd#hawe) |
+| 09:50–10:10 | **Dr. Ilaria Billato** <br> [Beyond the Slide: Integrating Histopathological Image Features with Multi-Omics Data in R/Bioconductor](abstracts.qmd#billato) |
+| 10:10–10:30 | **Dr. Bianca Pierattini** <br> [Structure at Scale: Turning RNA into Training Data for Predictive Models](abstracts.qmd#pierattini) |
 | 10:30–11:00 | Coffee break |
 | 11:00–11:20 | **Dr. Tania Bobbo** <br> [Machine Learning for Probiotics Discovery: The PROB-AI Project](abstracts.qmd#bobbo) |
-| 11:20–11:40 | **Dr. Davide Rigoni** <br> Omics data analysis and biological modelling |
+| 11:20–11:40 | **Dr. Davide Rigoni** <br> [Constrained Generation of Molecular Structures](abstracts.qmd#rigoni) |
 | 11:40–12:00 | **Flavio Sartori** <br> [Scoring Tissue Health from Microscopy to Enable Causal Analysis in Dry AMD](abstracts.qmd#sartori) |
 | 12:00–13:00 | Lunch |
 | 13:00–13:20 | **Matteo Baldan** <br> [Learning to Simulate: Neural Operators and the Generation of Physical Dynamics with Applications in Cardiac Electrophysiology](abstracts.qmd#baldan) |
 | 13:20–13:40 | **Massimiliano Caretti** <br> [Title to be announced](abstracts.qmd#caretti) |
 | 13:40–14:00 | **Andrea G. Di Francesco** <br> [RAG Beyond NLP: Learning Relevant Context for Cellular Prediction](abstracts.qmd#di-francesco) |
-| 14:00–14:20 | **David Miller** <br> Emerging research talk |
-| 14:20–14:40 | **Salvatore Romano** <br> Emerging research talk |
-| 14:40–15:10 | Coffee break |
-| 15:10–15:30 | **Andrea Rubbi** <br> Emerging research talk |
-| 15:30–15:50 | **Wageesha Widuranga** <br> Emerging research talk |
-| 15:50–16:20 | Discussion: future directions in generative models for therapeutic discovery |
-| 16:20–16:35 | Closing remarks |
+| 14:00–14:20 | **Valerio Reffo** <br> [Title to be announced](abstracts.qmd#reffo) |
+| 14:20–14:40 | **David Miller** <br> Emerging research talk |
+| 14:40–15:00 | **Salvatore Romano** <br> Emerging research talk |
+| 15:00–15:30 | Coffee break |
+| 15:30–15:50 | **Andrea Rubbi** <br> Emerging research talk |
+| 15:50–16:10 | **Wageesha Widuranga** <br> Emerging research talk |
+| 16:10–16:40 | Discussion: future directions in generative models for therapeutic discovery |
+| 16:40–16:55 | Closing remarks |
 
 ::::
