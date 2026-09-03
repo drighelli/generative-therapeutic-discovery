@@ -15,9 +15,9 @@ AstraZeneca
 
 
 ::: {.speaker-profile}
-![](assets/img/speakers/fabio-bove.png){.speaker-profile-photo fig-alt="Fabio Bove"}
+[![](assets/img/speakers/fabio-bove.png){.speaker-profile-photo fig-alt="Fabio Bove"}](https://www.linkedin.com/in/fabio-bove-fb){target="_blank"}
 
-### Fabio Bove
+### [Fabio Bove](https://www.linkedin.com/in/fabio-bove-fb){target="_blank"}
 
 CEO and Co-founder at <br>
 Neoralab
@@ -35,9 +35,9 @@ Boltz
 
 
 ::: {.speaker-profile}
-![](assets/img/speakers/marco-ferrarini.png){.speaker-profile-photo fig-alt="Marco Ferrarini"}
+[![](assets/img/speakers/marco-ferrarini.png){.speaker-profile-photo fig-alt="Marco Ferrarini"}](https://www.linkedin.com/in/marcoferrarini/){target="_blank"}
 
-### Marco Ferrarini
+### [Marco Ferrarini](https://www.linkedin.com/in/marcoferrarini/){target="_blank"}
 
 Chief Scientific Officer at <br>
 Neoralab

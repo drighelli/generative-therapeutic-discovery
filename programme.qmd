@@ -18,8 +18,8 @@ All talk slots include time for discussion.
 | 10:00–10:10 | Opening remarks |
 | 10:10–10:40 | **Dr. Alessandro Bonetti** <br> Therapeutic discovery and industry perspectives |
 | 10:40–11:10 | **Dr. Mikhail Kabeshov** <br> Therapeutic discovery and industry perspectives |
-| 11:10–11:40 | Coffee break |
-| 11:40–12:10 | **Fabio Bove + Marco Ferrarini** <br> AI-driven therapeutic discovery |
+| 11:10–11:40 | Coffee break |S
+| 11:40–12:10 | **Fabio Bove + Marco Ferrarini** <br> [Thoughts on AI in Therapeutic Discovery](abstracts.qmd#bove-ferrarini) |
 | 12:10–12:40 | **Dr. Gabriele Corso** <br> Generative models and biological design |
 | 12:40–13:10 | **Dr. Esther Wershof** <br> [PRiMeFlow: Winning the ARC Virtual Cell Challenge with Generative Modeling](abstracts.qmd#wershof) |
 | 13:10–14:10 | Lunch |
@@ -53,7 +53,7 @@ All talk slots include time for discussion.
 | 13:40–14:00 | **Andrea G. Di Francesco** <br> [RAG Beyond NLP: Learning Relevant Context for Cellular Prediction](abstracts.qmd#di-francesco) |
 | 14:00–14:20 | **Valerio Reffo** <br> [Title to be announced](abstracts.qmd#reffo) |
 | 14:20–14:40 | **David Miller** <br> Emerging research talk |
-| 14:40–15:00 | **Salvatore Romano** <br> Emerging research talk |
+| 14:40–15:00 | **Salvatore Romano** <br> [Geometric Deep Learning Application in Biology: Two Case Studies.](abstracts.qmd#romano) |
 | 15:00–15:30 | Coffee break |
 | 15:30–15:50 | **Andrea Rubbi** <br> Emerging research talk |
 | 15:50–16:10 | **Wageesha Widuranga** <br> Emerging research talk |
