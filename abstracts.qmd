@@ -52,7 +52,11 @@ Realizing this potential requires high-quality data, traceable reasoning, and ex
 This talk reflects on the evolution from pre-AI discovery workflows to classical AI-based prediction and generation, and toward agentic, human-in-the-loop systems. The opportunity is to build hybrid approaches in which AI amplifies human expertise, accelerates learning across computational and experimental work, and continuously improves how therapeutic hypotheses are generated, evaluated, and translated into evidence.
 
 **Speakers bio**  
+Fabio Bove is an AI and Software Engineer working at the intersection of artificial intelligence, software engineering, and molecular discovery.
+He leads neoralab, an AI-first biotech venture developing computational systems for structure-based small-molecule design and optimization, with a primary focus on antimicrobial resistance.
+Fabio combines molecular modelling, multi-agent AI systems, and experimental validation to identify and optimize novel small-molecules. His work focuses on designing AI architectures, scientific software, and computational infrastructure for molecular discovery.
 
+He is always interested in connecting with researchers, founders, engineers, and organizations working on antimicrobial resistance, computational chemistry, and the future of drug discovery."
 Marco Ferrarini is a molecular biologist with a strong interest in translational research. Throughout his academic career, he gained extensive knowledge of the main pharmacological strategies currently on the market or approaching it. His work focused on generating cellular models using the CRISPR/Cas9 platform and on studying a family of lncRNAs involved in facioscapulohumeral muscular dystrophy (FSHD).
 He subsequently worked as a Clinical Study Coordinator in the field of Nephrology and Dialysis, where he collaborated closely with patients and healthcare professionals. Over the past year, he attended the PharmaTech Academy, an advanced training programme designed to develop key competencies across the long and complex drug development pipeline.
 At Neoralab, his work now centres on antimicrobial resistance, where he focus on novel target evaluation and the computational modelling of biological systems to support the discovery of new therapeutic approaches.
