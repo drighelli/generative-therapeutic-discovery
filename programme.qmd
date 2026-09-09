@@ -16,7 +16,7 @@ All talk slots include time for discussion.
 |---|---|
 | 09:30–10:00 | Registration |
 | 10:00–10:10 | Opening remarks |
-| 10:10–10:40 | **Dr. Alessandro Bonetti** <br> Therapeutic discovery and industry perspectives |
+| 10:10–10:40 | **Dr. Alessandro Bonetti** <br> [Turning Junk into Gems: Long Non-Coding RNAs Unlock New Therapeutic Horizons](abstracts.qmd#bonetti) |
 | 10:40–11:10 | **Dr. Mikhail Kabeshov** <br> Therapeutic discovery and industry perspectives |
 | 11:10–11:40 | Coffee break |S
 | 11:40–12:10 | **Fabio Bove + Marco Ferrarini** <br> [Thoughts on AI in Therapeutic Discovery](abstracts.qmd#bove-ferrarini) |
@@ -49,7 +49,6 @@ All talk slots include time for discussion.
 | 11:40–12:00 | **Flavio Sartori** <br> [Scoring Tissue Health from Microscopy to Enable Causal Analysis in Dry AMD](abstracts.qmd#sartori) |
 | 12:00–13:00 | Lunch |
 | 13:00–13:20 | **Matteo Baldan** <br> [Learning to Simulate: Neural Operators and the Generation of Physical Dynamics with Applications in Cardiac Electrophysiology](abstracts.qmd#baldan) |
-| 13:20–13:40 | **Massimiliano Caretti** <br> [Title to be announced](abstracts.qmd#caretti) |
 | 13:40–14:00 | **Andrea G. Di Francesco** <br> [RAG Beyond NLP: Learning Relevant Context for Cellular Prediction](abstracts.qmd#di-francesco) |
 | 14:00–14:20 | **Valerio Reffo** <br> [Title to be announced](abstracts.qmd#reffo) |
 | 14:20–14:40 | **David Miller** <br> Emerging research talk |

@@ -16,13 +16,13 @@ This page collects talk titles, abstracts and short speaker biographies for GMTD
 ::: {.abstract-card #bonetti}
 ### Dr. Alessandro Bonetti
 
-#### Talk title TBC
+#### Turning Junk into Gems: Long Non-Coding RNAs Unlock New Therapeutic Horizons
 
 **Abstract**  
-Abstract TBC.
+In this presentation, I will provide an overview of the non-coding field and outline the scientific rationale for considering non-coding elements as novel pharmacological targets. I will also discuss our current research efforts and present an example demonstrating how RNA therapeutics directed against non-coding elements can ameliorate disease phenotypes in vitro.
 
 **Speaker bio**  
-Bio TBC.
+Dr. Alessandro Bonetti earned a Master’s degree in Medical Biotechnology from the University of Naples in 2001 and subsequently moved to Helsinki to pursue a PhD investigating the genetic predisposition to multiple sclerosis in Nordic populations. He then joined RIKEN Yokohama, where he studied the biological functions of long non-coding RNAs and developed technologies to assess their relevance in health and disease. He later joined AstraZeneca, leading transcriptomic studies within the Oligonucleotide Platform. In October 2022, he was appointed Principal Scientist in the department of Functional Genomics, and in 2024, he became Director, leading programmes focused on the pharmacological modulation of RNA targets.
 :::
 
 ::: {.abstract-card #kabeshov}
@@ -288,19 +288,11 @@ Particular attention is given to how a continuous operator becomes a computation
 Examples from biological modelling illustrate how operator learning can represent multiscale systems whose states are spatially distributed and only partially observed. Cardiac electrophysiology is then presented as a central application: electrical activation emerges from nonlinear reaction-diffusion dynamics on heterogeneous, anisotropic and patient-specific cardiac geometries. We discuss the basics of electrocardiophysiology and of learning surrogate models of transmembrane potential regression
 
 **Speaker bio**  
-Coming soon
-:::
+Matteo is a PhD student in Information and Communication Technologies (ICT) at the University of Padova, with a background in Bioengineering and a specialization in mathematical modelling. His research focuses on the use of graph-based models to describe and study complex biological systems, spanning microbial communities, spatial transcriptomics, cellular communication, and cardiac electrophysiology.
 
-::: {.abstract-card #caretti}
-### Massimiliano Caretti
+Across these applications, his work is grounded in the idea that mathematical and graph representations should reflect both the interactions between the elements of a system and the characteristics of the measurements through which the system is observed.
 
-#### Title to be announced
-
-**Abstract**  
-Abstract coming soon.
-
-**Speaker bio**  
-Massimiliano Caretti’s research focuses on artificial intelligence for molecular diagnostics and computational biology. He develops interpretable machine-learning models for vibrational spectroscopy, including FTIR and micro-Raman data, as well as single-cell and spatial omics methods to support cancer diagnosis, tumour heterogeneity characterisation and precision oncology.
+During a visiting period at the Department of Computer Science and Technology at the University of Cambridge, Matteo worked on geometric deep learning for cardiac electrophysiology. This work led to GraphEP, a calibrated dataset and benchmarking framework for learning cardiac electrophysiological dynamics on realistic, irregular cardiac geometries, designed to support the development and evaluation of graph-based scientific machine learning models.
 :::
 
 ::: {.abstract-card #di-francesco}

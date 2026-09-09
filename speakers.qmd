@@ -192,9 +192,9 @@ Department of Mathematics, University of Padova
 
 ::: {.speaker-profile}
 
-![](assets/img/speakers/matteo-baldan.jpeg){.speaker-profile-photo fig-alt="Matteo Baldan"}
+[![](assets/img/speakers/matteo-baldan.jpeg){.speaker-profile-photo fig-alt="Matteo Baldan"}](https://www.linkedin.com/in/matteo-baldan-2a17bb210/){target="_blank"}
 
-### Matteo Baldan
+### [Matteo Baldan](https://www.linkedin.com/in/matteo-baldan-2a17bb210/){target="_blank"}
 
 PhD Student at <br>
 
@@ -202,19 +202,6 @@ Department of Information Engineering, University of Padova
 
 :::
 
-::: {.speaker-profile}
-
-![](assets/img/speakers/massimiliano-caretti.png){.speaker-profile-photo fig-alt="Massimiliano Caretti"}
-
-### Massimiliano Caretti
-
-PhD Student at <br>
-
-DIAG, Sapienza University of Rome <br>
-
-and CNR, Italy
-
-:::
 
 ::: {.speaker-profile}
 
