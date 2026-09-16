@@ -2,12 +2,45 @@
 title: "Registration"
 ---
 
-::: {.container-narrow}
+Registration for **GMTD 2026 – Generative Models for Therapeutic Discovery** is now open.
 
-Registration will open soon.
+The workshop will take place on **29–30 September 2026** at the **University of Cambridge, William Gates Building**.
 
-The workshop will take place on **29–30 September 2026** at the **University of Cambridge Computer Laboratory**.
+Places are limited, so registration is required.
 
-A registration link will be added here.
+[Register for GMTD 2026](https://onlinesales.admin.cam.ac.uk/conferences-and-events/computer-science-and-technology/workshop-on-generative-models-for-therapeutic-discovery/workshop-on-generative-models-for-therapeutic-discovery-29-30-september-2026){.btn .btn-primary .btn-lg target="_blank"}
 
-:::
+## Registration categories
+
+Different registration categories are available through the University of Cambridge Online Store.
+
+The applicable registration fee and eligibility requirements are shown directly on the booking page.
+
+### PhD students
+
+A discounted registration option is available for eligible **PhD students**.
+
+This category requires a registration passcode. If you are eligible and have not yet received the code, please contact the workshop organisers.
+
+## University of Cambridge participants
+
+University of Cambridge staff and students whose registration fee will be covered by their department should **not pay through the Online Store or reclaim the fee through expenses**.
+
+In these cases, payment should instead be arranged through **internal trading / departmental cross-charge**.
+
+University of Cambridge participants who are **self-funding** may register through the Online Store using a personal payment card, provided that they do not subsequently claim the registration fee through expenses.
+
+## Registration and personal data
+
+Registration is managed through the official **University of Cambridge Online Store**.
+
+Information collected during registration will be used for the organisation and delivery of the workshop in accordance with University of Cambridge data-protection policies.
+
+## Questions
+
+For questions about registration, eligibility for the PhD registration category, or any other organisational matter, please contact the GMTD 2026 Organising Committee:
+
+**gmtd.organizing.committee [at] gmail [dot] com**
+
+[View the programme](programme.qmd){.btn .btn-outline-primary .me-2}
+[Meet the speakers](speakers.qmd){.btn .btn-outline-primary}
