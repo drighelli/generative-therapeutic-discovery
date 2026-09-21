@@ -243,6 +243,22 @@ Department of Statistical Sciences, University of Padova
 
 ::: {.speaker-profile}
 
+![](assets/img/speakers/weigao-pu.png){.speaker-profile-photo fig-alt="Weigao Pu"}
+
+### Weigao Pu
+
+PhD Candidate in Oncology at <br>
+
+Lanzhou University <br>
+
+and Joint Doctoral Researcher at <br>
+
+University of Cambridge
+
+:::
+
+::: {.speaker-profile}
+
 ![](assets/img/speakers/salvo-romano.jpeg){.speaker-profile-photo fig-alt="Salvatore Romano"}
 
 ### Salvatore Romano
