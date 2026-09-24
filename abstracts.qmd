@@ -121,13 +121,13 @@ Michail Mamalakis is an Assistant Research Professor at the Cancer Research UK C
 ::: {.abstract-card #dong}
 ### Dr. Tiansi Dong
 
-#### Talk title TBC
+#### Logic Classifier and its Applications in Molecular Discovery
 
 **Abstract**  
-Abstract TBC.
+Molecular classifiers routinely memorise thousands of labels while ignoring the texonomy among those labels and fall back in the Texas sharpshooter fallacy, namely, shooting first and drawing taget later. In this talk, I introduce a method that draws the target first, then learns to shoot. This method embeds a taxonomy as a configuration of spheres in the vector space. This way, the hierarchical relations are explicitly encoded as the inclusion relations among spheres. This method can deliver logically incoherent outputs. We report  SphereTax and ChemOnt structural tree for molecular discovery.
 
 **Speaker bio**  
-Bio TBC.
+Dr Tiansi Dong, research scientist at The Alan Turing Institute and visiting fellow at the Department of Computer Science and Technology, University of Cambridge. His research focuses on closing the gap between data-driven machine learning and rigorous logical reasoning, and developed Sphere Neural Network, the first neural network achieves the rigor of symbolic-level syllogistic reasoning without using training-data. He is a highly active organizer within the global machine reasoning community, including NeurMAD Workshop at AAAI'25 and at Cambridge in 2026, NeusymBridge Workshop at LREC-Coling'24, Coling'25, and AAAI'26, and Chum workshop at Coling'25 and at ACL'26. 
 :::
 
 ::: {.abstract-card #melidis}

@@ -9,13 +9,13 @@ This page collects talk titles, abstracts and short speaker biographies for GMTD
 ::: {#bonetti}
 ### Dr. Alessandro Bonetti
 
-**Talk title TBC**
+**Turning Junk into Gems: Long Non-Coding RNAs Unlock New Therapeutic Horizons**
 
 **Abstract**  
-Abstract TBC.
+In this presentation, I will provide an overview of the non-coding field and outline the scientific rationale for considering non-coding elements as novel pharmacological targets. I will also discuss our current research efforts and present an example demonstrating how RNA therapeutics directed against non-coding elements can ameliorate disease phenotypes in vitro.
 
 **Speaker bio**  
-Bio TBC.
+Dr. Alessandro Bonetti earned a Master’s degree in Medical Biotechnology from the University of Naples in 2001 and subsequently moved to Helsinki to pursue a PhD investigating the genetic predisposition to multiple sclerosis in Nordic populations. He then joined RIKEN Yokohama, where he studied the biological functions of long non-coding RNAs and developed technologies to assess their relevance in health and disease. He later joined AstraZeneca, leading transcriptomic studies within the Oligonucleotide Platform. In October 2022, he was appointed Principal Scientist in the department of Functional Genomics, and in 2024, he became Director, leading programmes focused on the pharmacological modulation of RNA targets.
 :::
 
 ::: {#kabeshov}
