@@ -25,7 +25,7 @@ All talk slots include time for discussion.
 | 13:10–14:10 | Lunch |
 | 14:10–14:40 | **Dr. Fabian Frohlich** <br> [Deep Mechanistic Models Reveal Pathway-Extrinsic Drivers of Mammary MAPK Signalling Heterogeneity](abstracts.qmd#frohlich) |
 | 14:40–15:10 | **Dr. Michail Mamalakis** <br> [From Genes to Brain Imaging: Interpretable and Adaptable AI for Understanding Brain Disease](abstracts.qmd#mamalakis) |
-| 15:10–15:40 | **Dr. Tiansi Dong** <br> Logic Classifier and its Applications in Molecular Discovery |
+| 15:10–15:40 | **Dr. Tiansi Dong** <br> [Logic Classifier and its Applications in Molecular Discovery](abstracts.qmd#dong) |
 | 15:40–16:10 | Coffee break |
 | 16:10–16:40 | **Dr. Larry Melidis** <br> [Predicting Nucleic Acid Structural Diversity Across the Tree of Life](abstracts.qmd#melidis) |
 | 16:40–17:10 | **Dr. Anurag Limdi** <br> [Uncertainty Quantification in Multi-Omic Generative Models Identifies Context-Dependent Biology and Technical Noise](abstracts.qmd#limdi) |
