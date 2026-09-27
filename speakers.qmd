@@ -160,6 +160,18 @@ Balasubramanian Group, University of Cambridge
 
 :::
 
+
+::: {.speaker-profile}
+
+[![](assets/img/speakers/aki-mori.jpeg){.speaker-profile-photo fig-alt="Dr. Akihiro Mori"}](https://www.linkedin.com/in/mori-akihiro-20835522/ ){target="_blank"}
+
+### [Dr. Akihiro Mori](https://www.linkedin.com/in/mori-akihiro-20835522/ ){target="_blank"}
+
+Research Fellow at <br>
+ Institute of Mathematics, University of Aberdeen
+:::
+
+
 ::: {.speaker-profile}
 
 [![](assets/img/speakers/bianca-pierattini.jpg){.speaker-profile-photo fig-alt="Dr. Bianca Pierattini"}](https://www.linkedin.com/in/biancapierattini){target="_blank"}

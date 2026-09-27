@@ -312,21 +312,26 @@ Andrea Giuseppe Di Francesco is a third-year Ph.D. student in Data Science at th
 His research focuses on the theoretical foundations of Graph Neural Networks, with emphasis on expressivity, inductive biases, and their integration with GraphRAG systems. He actively collaborates with the Institute of Information Science and Technologies (ISTI-CNR) in Pisa.
 :::
 
-::: {.abstract-card #miller}
 
-### David Miller
+::: {.abstract-card #mori}
 
-#### Talk title TBC
+### Akihiro Mori
+
+#### Bridging mechanistic modelling and experimental perturbation to understand biological state transitions
 
 **Abstract**  
 
-Abstract TBC.
+ Understanding how biological systems transition between states is relevant across synthetic, developmental and translational biology. We address this through bottom-up computational modelling and experimental perturbation.
+We developed a three-dimensional model of protocell-like systems to investigate how chemical environments and biochemical reactions influence compartment growth and behaviour. The model integrates 10 sequentially connected biological-feature layers, including membrane phase separation and molecular diffusion, each represented by mathematical models. Connecting these processes allows us to examine how internal environmental changes contribute to protocell growth. Although focused on protocells and the origin of life, the framework could extend to cellular and developmental processes, including fertilisation and early embryonic development.
+In parallel, we use C. elegans to investigate how nutritional/metabolic exposures influence developmental state transitions. We identified a nutrient-dependent embryonic arrest and use 4D imaging, image processing and classification to quantify biological responses. This reversible developmental arrest is consistent with embryonic diapause, previously described in C. elegans and mammals. We have identified metabolic/molecular responses associated with this transition. A planned feasibility study will examine whether these responses can be detected in a human context and assess their potential as biomarkers linking nutritional exposure to early developmental responses. Our long-term aim is to determine whether these mechanisms and biomarkers can inform intervention strategies for reproductive biology and assisted reproduction.
+Together, these approaches examine how molecular environments influence biological states. Where states are not fully defined and large datasets are unavailable, mechanistic simulation and targeted experiments can define measurable states and generate perturbation-response data, providing a basis for predictive models and, in future, generative models.
 
 **Speaker bio**  
 
-Bio TBC.
+Akihiro ("Aki") Mori is a research fellow at the University of Aberdeen working across computational, developmental and translational biology. His research combines mathematical and computational modelling with experimental approaches to investigate how biological systems respond to changes in their molecular environment. His current interests include protocell modelling, developmental state transitions, reproductive biology, and the development of quantitative approaches that may support future predictive and generative models.
 
 :::
+
 
 ::: {.abstract-card #pu}
 
@@ -350,11 +355,28 @@ Weigao Pu is a PhD candidate in Oncology at Lanzhou University, with a clinical 
 
 :::
 
+
+::: {.abstract-card #miller}
+
+### David Miller
+
+#### Talk title TBC
+
+**Abstract**  
+
+Abstract TBC.
+
+**Speaker bio**  
+
+Bio TBC.
+
+:::
+
 ::: {.abstract-card #reffo}
 
 ### Valerio Reffo
 
-#### Title to be announced
+#### What are we feeding foundation models?
 
 **Abstract**  
 
