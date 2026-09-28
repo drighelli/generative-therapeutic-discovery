@@ -376,11 +376,11 @@ Bio TBC.
 
 ### Valerio Reffo
 
-#### What are we feeding foundation models?
+#### What Are We Feeding Foundation Models? Data quality and representativeness in single-cell foundation models 
 
 **Abstract**  
 
-Abstract coming soon.
+Single-cell foundation models promise to transform how we study cells, but they are trained on public atlases whose quality is rarely questioned. By contrast, AlphaFold showed what AI can achieve when trained on decades of curated, experimentally validated data. What happens when a model learns from damaged or misleading cells? And what if some tissues, cell types or donors are barely represented? This talk asks what we are feeding foundation models, and whether they could learn not only what a cell is, but how much we can trust it.
 
 **Speaker bio**  
 
@@ -419,13 +419,17 @@ Bio TBC.
 ::: {.abstract-card #widuranga}
 ### Wageesha Widuranga
 
-#### Talk title TBC
+#### LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design
 
 **Abstract**  
-Abstract TBC.
+
+The discovery of novel small molecules is challenging because of the vastness of chemical space and the complexity of protein-ligand interactions, leading to low success rates and time-consuming workflows. Here, we present LLMsFold, a computational framework that combines Large Language Models (LLMs) and biophysical foundation tools to design and validate new small molecules targeting pathogenic proteins. The pipeline starts by identifying viable binding pockets on a target protein through geometry-based pocket detection. A 70-billion-parameter transformer model from the Llama family then generates candidate molecules as SMILES strings under prompt constraints that enforce drug-likeness. Each molecule is evaluated by Boltz-2, a diffusion-based model for protein-ligand co-folding that predicts bound 3D structure and binding affinity. Promising candidates are iteratively optimized through a feedback loop that prioritizes high predicted affinity and synthetic accessibility. We demonstrate the approach on ACVR1 (Activin A Receptor Type 1), implicated in fibrodysplasia ossificans progressiva (FOP). Top candidates show strong in silico binding predictions and favorable drug-like profiles. All code and models are made available to support reproducibility and further development.
 
 **Speaker bio**  
-Bio TBC.
+
+Wageesha Widuranga is a PhD candidate (XLI cycle) in veterinary science at the University of Padova, Italy, where his research focuses on computational drug design and the application of large language models to accelerate drug discovery. He holds an MSc in Physics of Data from the University of Padova and a BSc (honours) in Computational Physics from the University of Colombo, Sri Lanka.
+His interdisciplinary background spans deep learning, molecular dynamics, and neuroimaging, with research experience at the Padova Neuroscience Center
+
 :::
 
 :::
