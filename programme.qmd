@@ -55,7 +55,7 @@ All talk slots include time for discussion.
 | 14:20–14:40 | **David Miller** <br> Emerging research talk |
 | 14:40–15:00 | **Salvatore Romano** <br> [Geometric Deep Learning Application in Biology: Two Case Studies](abstracts.qmd#romano) |
 | 15:00–15:30 | Coffee break |
-| 15:30–15:50 | **Andrea Rubbi** <br> Emerging research talk |
+| 15:30–15:50 | **Andrea Rubbi** <br> [Lab in the loop with generative models](abstracts.qmd#rubbi) |
 | 15:50–16:10 | **Wageesha Widuranga** <br> [LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design](abstracts.qmd#widuranga) |
 | 16:10–16:30 | **Akihiro Mori** <br> [Bridging mechanistic modelling and experimental perturbation to understand biological state transitions](abstracts.qmd#mori) |
 | 16:30–17:00 | Discussion: future directions in generative models for therapeutic discovery |

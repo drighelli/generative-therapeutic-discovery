@@ -283,7 +283,7 @@ University of Catania
 
 ::: {.speaker-profile}
 
-![](assets/img/speakers/andrea-rubbi.jpeg){.speaker-profile-photo fig-alt="Andrea Rubbi"}
+[![](assets/img/speakers/andrea-rubbi.jpeg){.speaker-profile-photo fig-alt="Andrea Rubbi"}](https://andrearubbi.com){target="_blank"}
 
 ### Andrea Rubbi
 
