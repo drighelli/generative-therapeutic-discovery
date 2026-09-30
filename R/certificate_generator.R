@@ -42,29 +42,37 @@ read_names_from_file <- function(path) {
 }
 
 read_names_from_url <- function(url) {
-  if (!nzchar(url)) return(character(0))
 
-  if (!has_pkg("rvest") || !has_pkg("xml2")) {
-    warning("Packages rvest and xml2 are needed to read names from a URL.")
-    return(character(0))
+  url <- trimws(url)
+
+  if (!nzchar(url)) {
+    stop("Please enter a valid URL.")
   }
 
-  page <- tryCatch(xml2::read_html(url), error = function(e) NULL)
-  if (is.null(page)) return(character(0))
-
-  # First try speaker cards from the Quarto website
-  nodes <- rvest::html_elements(page, ".speaker-profile h3, .speaker-card h3")
-
-  if (length(nodes) == 0) {
-    # fallback: all h3 elements
-    nodes <- rvest::html_elements(page, "h3")
+  if (!requireNamespace("rvest", quietly = TRUE)) {
+    stop("Please install rvest: install.packages('rvest')")
   }
 
-  x <- rvest::html_text2(nodes)
-  x <- gsub("^Dr\\.?\\s+", "Dr ", x)
-  x <- trimws(x)
-  x <- x[nzchar(x)]
-  unique(x)
+  page <- tryCatch(
+    rvest::read_html(url),
+    error = function(e) {
+      stop("Unable to access webpage: ", conditionMessage(e))
+    }
+  )
+
+  nodes <- rvest::html_elements(
+    page,
+    ".speaker-profile h3"
+  )
+
+  names <- trimws(rvest::html_text2(nodes))
+  names <- unique(names[nzchar(names)])
+
+  if (length(names) == 0) {
+    stop("No speaker names found. Check the webpage structure.")
+  }
+
+  names
 }
 
 clean_names <- function(x) {
@@ -297,21 +305,29 @@ server <- function(input, output, session) {
   url_names <- reactiveVal(character(0))
 
   observeEvent(input$load_url, {
-    x <- read_names_from_url(input$url)
-    url_names(x)
 
-    if (length(x) == 0) {
-      showNotification(
-        "No names found from URL. Check the URL or install rvest/xml2.",
-        type = "warning"
-      )
-    } else {
-      showNotification(
-        paste("Loaded", length(x), "names from URL."),
-        type = "message"
-      )
-    }
-  })
+      tryCatch({
+
+        x <- read_names_from_url(input$url)
+
+        url_names(x)
+
+        showNotification(
+          paste("Successfully loaded", length(x), "speakers."),
+          type = "message"
+        )
+
+      }, error = function(e) {
+
+        showNotification(
+          conditionMessage(e),
+          type = "error",
+          duration = 10
+        )
+
+      })
+
+    })
 
   all_names <- reactive({
     x <- character(0)
@@ -393,5 +409,7 @@ server <- function(input, output, session) {
     contentType = "application/zip"
   )
 }
+
+
 
 shinyApp(ui, server)
