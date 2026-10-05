@@ -29,7 +29,7 @@ All talk slots include time for discussion.
 | 15:40–16:10 | Coffee break |
 | 16:10–16:40 | **Dr. Larry Melidis** <br> [Predicting Nucleic Acid Structural Diversity Across the Tree of Life](abstracts.qmd#melidis) |
 | 16:40–17:10 | **Dr. Anurag Limdi** <br> [Uncertainty Quantification in Multi-Omic Generative Models Identifies Context-Dependent Biology and Technical Noise](abstracts.qmd#limdi) |
-| 17:10–17:40 | **Tom McClelland** <br> [The Problem of Artificial Consciousness](abstracts.qmd#mcclelland) |
+| 17:10–17:40 | **Tom McClelland** <br> [The Problem of Artificial Consciousness](abstracts.qmd#mcclelland) · [<i class="bi bi-file-earmark-slides"></i> Slides](slides/mcclelland.pdf){target="_blank"} ||
 | 17:40–18:00 | General discussion / wrap-up |
 
 ::::
@@ -46,7 +46,7 @@ All talk slots include time for discussion.
 | 10:30–11:00 | Coffee break |
 | 11:00–11:20 | **Dr. Tania Bobbo** <br> [Machine Learning for Probiotics Discovery: The PROB-AI Project](abstracts.qmd#bobbo) |
 | 11:20–11:40 | **Dr. Davide Rigoni** <br> [Constrained Generation of Molecular Structures](abstracts.qmd#rigoni) |
-| 11:40–12:00 | **Flavio Sartori** <br> [Scoring Tissue Health from Microscopy to Enable Causal Analysis in Dry AMD](abstracts.qmd#sartori) |
+| 11:40–12:00 | **Flavio Sartori** <br> [Scoring Tissue Health from Microscopy to Enable Causal Analysis in Dry AMD](abstracts.qmd#sartori) · [<i class="bi bi-file-earmark-slides"></i> Slides](slides/sartori.pdf){target="_blank"} ||
 | 12:00–13:00 | Lunch |
 | 13:00–13:20 | **Matteo Baldan** <br> [Learning to Simulate: Neural Operators and the Generation of Physical Dynamics with Applications in Cardiac Electrophysiology](abstracts.qmd#baldan) |
 | 13:20–13:40 | **Weigao Pu** <br> [Serp-2 in Liver Transplant Ischemia–Reperfusion Injury: TNFAIP3 and AI-Guided Target Discovery](abstracts.qmd#pu) |
